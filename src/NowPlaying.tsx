@@ -5,9 +5,9 @@ export interface NowPlayingProps {
   name: string;
   artistNames: string[];
   imageUrl: string;
-  ts: number;
-  progress: number;
-  duration: number;
+  isPlaying: boolean;
+  ts?: number;
+  progress?: number;
 }
 
 export default function NowPlaying(props: NowPlayingProps) {

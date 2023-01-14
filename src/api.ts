@@ -1,4 +1,4 @@
-import { CurrentlyPlayingResponse } from "./types.ts";
+import { CurrentlyPlayingResponse, RecentlyPlayedResponse } from "./types.ts";
 
 export interface SpotifyAPIOptions {
   readonly clientId: string;
@@ -23,13 +23,7 @@ export class SpotifyAPI {
     const endpoint = "https://api.spotify.com/v1/me/player/currently-playing";
     const accessToken = await this.getAccessToken();
 
-    const resp = await fetch(endpoint, {
-      headers: [
-        ["Accept", "application/json"],
-        ["Content-Type", "application/json"],
-        ["Authorization", `Bearer ${accessToken}`],
-      ],
-    }).then(async (r) => {
+    const resp = await fetch(endpoint, this.#getRequestInit(accessToken)).then(async (r) => {
       // No content, aka not currently playing anything
       if (r.status === 204) {
         return {
@@ -43,6 +37,19 @@ export class SpotifyAPI {
         isPlaying: true as const,
         data: await r.json() as CurrentlyPlayingResponse,
       };
+    });
+
+    return resp;
+  }
+
+  async getRecentlyPlayed() {
+    const endpoint = "https://api.spotify.com/v1/me/player/recently-played";
+    const accessToken = await this.getAccessToken();
+    const resp = await fetch(endpoint, this.#getRequestInit(accessToken)).then(async (r) => {
+      if (!r.ok || r.body == null) {
+        throw new Error(`${r.statusText}: ${r.status}`);
+      }
+      return await r.json() as RecentlyPlayedResponse;
     });
 
     return resp;
@@ -72,6 +79,16 @@ export class SpotifyAPI {
     } else {
       return this.accessToken;
     }
+  }
+
+  #getRequestInit(accessToken: string): RequestInit {
+    return {
+      headers: [
+        ["Accept", "application/json"],
+        ["Content-Type", "application/json"],
+        ["Authorization", `Bearer ${accessToken}`],
+      ],
+    };
   }
 
   #hasExpired() {

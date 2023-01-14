@@ -81,3 +81,35 @@ export interface Image {
 export interface ExternalIDS {
   isrc: string;
 }
+
+export interface RecentlyPlayedResponse {
+  items: RecentlyPlayedItem[];
+  next: string;
+  limit: number;
+  href: string;
+}
+export interface RecentlyPlayedItem {
+  track: Track;
+  played_at: string;
+  context: Context;
+}
+
+export interface Track {
+  album: Album;
+  artists: Artist[];
+  available_markets: string[];
+  disc_number: number;
+  duration_ms: number;
+  explicit: boolean;
+  external_ids: ExternalIDS;
+  external_urls: ExternalUrls;
+  href: string;
+  id: string;
+  is_local: boolean;
+  name: string;
+  popularity: number;
+  preview_url: string;
+  track_number: number;
+  type: string;
+  uri: string;
+}
