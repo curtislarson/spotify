@@ -63,7 +63,7 @@ export class SpotifyApp extends Hono {
   }
 
   #registerHandlers() {
-    this.get("/", async (c) => {
+    this.get("*", async (c) => {
       const currentlyPlaying = await this.api.getCurrentlyPlaying();
       if (!currentlyPlaying.isPlaying) {
         return c.json({ isPlaying: false });
@@ -81,7 +81,10 @@ export class SpotifyApp extends Hono {
           progress: currentlyPlaying.data.progress_ms,
           duration: item.duration_ms,
         };
-        return c.body(SVG(<NowPlaying {...renderData} />), 200, { "content-type": "image/svg+xml" });
+        return c.body(SVG(<NowPlaying {...renderData} />), 200, {
+          "cache-control": "s-maxage=1, stale-while-revalidate",
+          "content-type": "image/svg+xml",
+        });
       }
     });
   }

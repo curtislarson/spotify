@@ -1,6 +1,6 @@
 # Spotify
 
-![Now Playing](https://now-playing-spotify.deno.dev/)
+![Now Playing](https://now-playing-spotify.deno.dev/?v1)
 
 ## Setup
 
