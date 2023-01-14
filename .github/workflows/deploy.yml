@@ -1,0 +1,28 @@
+name: 🚀 Deploy
+
+env:
+  DENO_DIR: /tmp/.deno
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Deno
+        uses: denoland/setup-deno@v1
+
+      - name: Install deployctl
+        run: |
+          deno install --allow-read --allow-write --allow-env --allow-net --allow-run --no-check -r -f https://deno.land/x/deploy/deployctl.ts
+
+      - name: Deploy
+        run: deployctl deploy --project=${{ vars.DENO_DEPLOY_PROJECT }} ./server.ts
+        env:
+          DENO_DEPLOY_TOKEN: ${{ secrets.DENO_DEPLOY_TOKEN }}
