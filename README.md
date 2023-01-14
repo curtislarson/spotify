@@ -1,5 +1,7 @@
 # Spotify
 
+![Now Playing](https://now-playing-spotify.deno.dev/)
+
 ## Setup
 
 ### Spotify
