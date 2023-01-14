@@ -12,7 +12,7 @@ export interface NowPlayingProps {
 
 export default function NowPlaying(props: NowPlayingProps) {
   return (
-    <div class="container">
+    <div class="container" xmlns="http://www.w3.org/1999/xhtml">
       <img src={props.imageUrl}></img>
       <h1>{props.name}</h1>
       <h2>{props.artistNames.join(", ")}</h2>
