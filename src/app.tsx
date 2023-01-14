@@ -5,8 +5,14 @@ import { ImageEncoder } from "./image-encoder.ts";
 import NowPlaying from "./NowPlaying.tsx";
 
 const SVG = (body: unknown, width: number = 332, height: number = 380) => /** html */ html`
-  <svg fill="none" width=${width} height=${height} viewbox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width=${width} height=${height}>
+  <svg
+    fill="none"
+    width="${width}"
+    height="${height}"
+    viewbox="0 0 ${width} ${height}"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <foreignObject width="${width}" height="${height}">
       <style>
         img {
           width: 300px;
@@ -75,7 +81,7 @@ export class SpotifyApp extends Hono {
           progress: currentlyPlaying.data.progress_ms,
           duration: item.duration_ms,
         };
-        return c.html(SVG(<NowPlaying {...renderData} />));
+        return c.body(SVG(<NowPlaying {...renderData} />), 200, { "content-type": "image/svg+xml" });
       }
     });
   }
