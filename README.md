@@ -2,6 +2,8 @@
 
 ![Now Playing](https://now-playing-spotify.deno.dev/?v1)
 
+A simple Deno app that fetches your currently playing song or most recently played song and renders it as a svg.
+
 ## Setup
 
 ### Spotify
@@ -17,10 +19,12 @@
 
 ### Deployment
 
-Deployments occur on pushes to `master`.
+Deployments to Deno Deploy occur on pushes to `master`.
 
-1. Set `DENO_DEPLOY_TOKEN` in repository secrets.
-2. Set `DENO_DEPLOY_PROJECT` in repository variables.
+1. Create project in deno deploy.
+2. Set `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REFRESH_TOKEN` environment variables.
+3. Set `DENO_DEPLOY_TOKEN` in repository secrets.
+4. Set `DENO_DEPLOY_PROJECT` in repository variable to your project name from step #1.
 
 ## Environment Variables
 
