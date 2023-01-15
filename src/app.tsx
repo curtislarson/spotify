@@ -1,47 +1,9 @@
 /** @jsx jsx */
-import { Hono, jsx, html } from "../deps.ts";
+import { Hono, jsx } from "../deps.ts";
 import { SpotifyAPI, SpotifyAPIOptions } from "./api.ts";
+import { renderSVG } from "./svg.ts";
 import { ImageEncoder } from "./image-encoder.ts";
 import NowPlaying from "./NowPlaying.tsx";
-
-const SVG = (body: unknown, width: number = 332, height: number = 380) => /** html */ html`
-  <svg
-    fill="none"
-    width="${width}"
-    height="${height}"
-    viewbox="0 0 ${width} ${height}"
-    xmlns="http://www.w3.org/2000/svg"
-  >
-    <foreignObject width="${width}" height="${height}">
-      <style>
-        img {
-          width: 300px;
-          height: 300px;
-        }
-        h1 {
-          margin: 0;
-          margin-top: 0.25rem;
-          font-size: 1.25rem;
-          font-weight: 600;
-          color: #8aff80;
-        }
-        h2 {
-          margin: 0;
-          margin-top: 0.25rem;
-          font-size: 1rem;
-          font-weight: 400;
-          color: #9850ff;
-        }
-        .container {
-          width: fit-content;
-          padding: 1rem;
-          background-color: #22212c;
-        }
-      </style>
-      ${body}
-    </foreignObject>
-  </svg>
-`;
 
 export interface SpotifyAppOptions extends SpotifyAPIOptions {}
 
@@ -72,10 +34,6 @@ export class SpotifyApp extends Hono {
   }
 
   #registerHandlers() {
-    this.get("/test", async (c) => {
-      const recentlyPlayed = await this.api.getRecentlyPlayed();
-      return c.json(recentlyPlayed);
-    });
     this.get("*", async (c) => {
       let trackData: TrackData;
       const currentlyPlaying = await this.api.getCurrentlyPlaying();
@@ -107,12 +65,10 @@ export class SpotifyApp extends Hono {
         ...trackData,
         imageUrl: `data:image/png;base64,${encodedImageUrl}`,
       };
-      return c.body(SVG(<NowPlaying {...renderData} />), 200, {
+      return c.body(renderSVG(<NowPlaying {...renderData} />), 200, {
         "cache-control": "s-maxage=1, stale-while-revalidate",
         "content-type": "image/svg+xml",
       });
     });
   }
-
-  async #getTrackData() {}
 }
