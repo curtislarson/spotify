@@ -17,14 +17,14 @@ export const renderSVG = (body: unknown, width: number = 332, height: number = 3
         h1 {
           margin: 0;
           margin-top: 0.25rem;
-          font-size: 1.25rem;
-          font-weight: 600;
+          font-size: 1rem;
+          font-weight: 500;
           color: #8aff80;
         }
         h2 {
           margin: 0;
           margin-top: 0.25rem;
-          font-size: 1rem;
+          font-size: .75rem;
           font-weight: 400;
           color: #9850ff;
         }
