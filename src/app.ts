@@ -1,9 +1,7 @@
-/** @jsx jsx */
-import { Hono, jsx } from "../deps.ts";
+import { Hono } from "../deps.ts";
 import { SpotifyAPI, SpotifyAPIOptions } from "./api.ts";
-import { renderSVG } from "./svg.ts";
 import { ImageEncoder } from "./image-encoder.ts";
-import NowPlaying from "./NowPlaying.tsx";
+import { render } from "./now-playing.ts";
 
 export interface SpotifyAppOptions extends SpotifyAPIOptions {}
 
@@ -65,7 +63,7 @@ export class SpotifyApp extends Hono {
         ...trackData,
         imageUrl: `data:image/png;base64,${encodedImageUrl}`,
       };
-      return c.body(renderSVG(<NowPlaying {...renderData} />), 200, {
+      return c.body(render(renderData), 200, {
         "cache-control": "s-maxage=1, stale-while-revalidate",
         "content-type": "image/svg+xml",
       });
