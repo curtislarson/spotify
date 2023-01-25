@@ -1,8 +1,5 @@
 name: 🚀 Deploy
 
-env:
-  DENO_DIR: /tmp/.deno
-
 on:
   workflow_dispatch:
   push:

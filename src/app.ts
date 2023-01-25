@@ -10,6 +10,7 @@ export interface TrackData {
   artistNames: string[];
   imageUrl: string;
   isPlaying: boolean;
+  isFavorite: boolean;
   ts?: number;
   progress?: number;
 }
@@ -45,6 +46,7 @@ export class SpotifyApp extends Hono {
           progress: currentlyPlaying.data.progress_ms,
           duration: item.duration_ms,
           isPlaying: true,
+          isFavorite: currentlyPlaying.data.context.type === "collection",
         };
       } else {
         const recentlyPlayed = await this.api.getRecentlyPlayed();
@@ -54,6 +56,7 @@ export class SpotifyApp extends Hono {
           artistNames: item.artists.map((a) => a.name),
           imageUrl: item.album.images.sort((a, b) => b.height - a.height).at(0)?.url ?? SpotifyApp.PLACEHOLDER_IMAGE,
           isPlaying: false,
+          isFavorite: false,
         };
       }
 
