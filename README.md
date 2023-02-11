@@ -2,7 +2,7 @@
 
 ![Now Playing](https://now-playing-spotify.deno.dev/?v1)
 
-A simple Deno app that fetches your currently playing song or most recently played song and renders it as a svg.
+A simple Deno app that fetches your currently playing or most recently played song and renders it as a svg. This allows you to embed it anywhere that supports svg, including GitHub `README` as you can see above!
 
 ## Setup
 
@@ -13,6 +13,7 @@ A simple Deno app that fetches your currently playing song or most recently play
 3. Copy `Client ID` and `Client Secret` into your `.env` file.
 4. In your app page client `Edit Settings` and fill in your website and Redirect URI. Copy your redirect uri.
 5. Construct an authorization url in the format `https://accounts.spotify.com/authorize?response_type=code&client_id=$CLIENT_ID&scope=user-read-recently-played,user-read-currently-playing&redirect_uri=$REDIRECT_URI` and paste it into your browser window.
+   1. Additional scopes that could be useful but not required: `user-read-playback-state,playlist-read-private,user-read-playback-position,user-top-read,user-library-read`
 6. Copy `code` url parameter from redirected url after navigating through oauth2 flow.
 7. Run `curl -d client_id=$CLIENT_ID -d client_secret=$CLIENT_SECRET -d grant_type=authorization_code -d code=$CODE -d redirect_uri=$REDIRECT_URI https://accounts.spotify.com/api/token`
 8. Copy `refresh_token` into `.env` file.

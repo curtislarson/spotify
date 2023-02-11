@@ -1,10 +1,13 @@
-import { CurrentlyPlayingResponse, RecentlyPlayedResponse } from "./types.ts";
+import { debug } from "../deps.ts";
+import { CurrentlyPlayingResponse, RecentlyPlayedResponse, SavedTracksResponse } from "./types.ts";
 
 export interface SpotifyAPIOptions {
   readonly clientId: string;
   readonly clientSecret: string;
   readonly refreshToken: string;
 }
+
+const log = debug("SpotifyAPI");
 
 export class SpotifyAPI {
   readonly clientId;
@@ -50,6 +53,36 @@ export class SpotifyAPI {
         throw new Error(`${r.statusText}: ${r.status}`);
       }
       return await r.json() as RecentlyPlayedResponse;
+    });
+
+    return resp;
+  }
+
+  async getSavedTracks(offset?: number) {
+    let endpoint = "https://api.spotify.com/v1/me/tracks?limit=50";
+    if (offset) {
+      endpoint += `&offset=${offset}`;
+    }
+    const accessToken = await this.getAccessToken();
+    log(`Querying endpoint ${endpoint}`);
+    const resp = await fetch(endpoint, this.#getRequestInit(accessToken)).then(async (r) => {
+      if (!r.ok || r.body == null) {
+        throw new Error(`${r.statusText}: ${r.status}`);
+      }
+      return await r.json() as SavedTracksResponse;
+    });
+
+    return resp;
+  }
+
+  async getTopTracks() {
+    const endpoint = "https://api.spotify.com/v1/me/top/tracks";
+    const accessToken = await this.getAccessToken();
+    const resp = await fetch(endpoint, this.#getRequestInit(accessToken)).then(async (r) => {
+      if (!r.ok || r.body == null) {
+        throw new Error(`${r.statusText}: ${r.status}`);
+      }
+      return await r.json();
     });
 
     return resp;

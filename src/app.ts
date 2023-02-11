@@ -2,6 +2,7 @@ import { Hono } from "../deps.ts";
 import { SpotifyAPI, SpotifyAPIOptions } from "./api.ts";
 import { ImageEncoder } from "./image-encoder.ts";
 import { render } from "./now-playing.ts";
+import { Track } from "./types.ts";
 
 export interface SpotifyAppOptions extends SpotifyAPIOptions {}
 
@@ -21,6 +22,8 @@ export class SpotifyApp extends Hono {
   readonly api;
   readonly encoder;
 
+  #savedTracksMap = new Map<string, Track>();
+
   constructor(options: SpotifyAppOptions) {
     super();
 
@@ -30,6 +33,21 @@ export class SpotifyApp extends Hono {
     this.#registerHandlers();
 
     this.showRoutes();
+  }
+
+  async loadAllSavedTracks() {
+    let offset = 0;
+    const returnTracks: Track[] = [];
+    while (true) {
+      const currentTracks = (await this.api.getSavedTracks(offset)).items;
+      returnTracks.push(...currentTracks.map((t) => t.track));
+      if (currentTracks.length < 50) {
+        break;
+      }
+      offset += 50;
+    }
+    console.log(`Loaded ${returnTracks.length} favorite tracks`);
+    this.#savedTracksMap = new Map(returnTracks.map((t) => [t.id, t]));
   }
 
   #registerHandlers() {
@@ -46,7 +64,7 @@ export class SpotifyApp extends Hono {
           progress: currentlyPlaying.data.progress_ms,
           duration: item.duration_ms,
           isPlaying: true,
-          isFavorite: currentlyPlaying.data.context.type === "collection",
+          isFavorite: this.#savedTracksMap.has(currentlyPlaying.data.item.id),
         };
       } else {
         const recentlyPlayed = await this.api.getRecentlyPlayed();
