@@ -12,6 +12,4 @@ const app = new SpotifyApp({
   refreshToken: SPOTIFY_REFRESH_TOKEN,
 });
 
-await app.loadAllSavedTracks();
-
 serve(app.fetch);

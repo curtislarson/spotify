@@ -113,3 +113,7 @@ export interface Track {
   type: string;
   uri: string;
 }
+
+export interface SavedTracksResponse {
+  items: { track: Track }[];
+}

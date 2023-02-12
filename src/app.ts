@@ -2,6 +2,7 @@ import { Hono } from "../deps.ts";
 import { SpotifyAPI, SpotifyAPIOptions } from "./api.ts";
 import { ImageEncoder } from "./image-encoder.ts";
 import { render } from "./now-playing.ts";
+import { getSavedTracks } from "./saved-tracks.ts";
 import { Track } from "./types.ts";
 
 export interface SpotifyAppOptions extends SpotifyAPIOptions {}
@@ -22,7 +23,7 @@ export class SpotifyApp extends Hono {
   readonly api;
   readonly encoder;
 
-  #savedTracksMap = new Map<string, Track>();
+  #savedTracksMap = getSavedTracks();
 
   constructor(options: SpotifyAppOptions) {
     super();
@@ -48,6 +49,10 @@ export class SpotifyApp extends Hono {
     }
     console.log(`Loaded ${returnTracks.length} favorite tracks`);
     this.#savedTracksMap = new Map(returnTracks.map((t) => [t.id, t]));
+  }
+
+  get savedTracks() {
+    return [...this.#savedTracksMap.values()];
   }
 
   #registerHandlers() {
