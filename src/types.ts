@@ -115,5 +115,5 @@ export interface Track {
 }
 
 export interface SavedTracksResponse {
-  items: { track: Track }[];
+  items: { track: Track; added_at: string }[];
 }

@@ -13,6 +13,7 @@ Deno.test("api getTopTracks", async (t) => {
       refreshToken: SPOTIFY_REFRESH_TOKEN,
     });
 
-    await api.getTopTracks();
+    const tracks = await api.getTopTracks("short_term");
+    console.log(tracks.map((t) => ({ name: t.name, artists: t.artists.map((a) => a.name).join(", ") })));
   });
 });

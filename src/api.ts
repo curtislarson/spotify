@@ -1,5 +1,7 @@
 import { debug } from "../deps.ts";
-import { CurrentlyPlayingResponse, RecentlyPlayedResponse, SavedTracksResponse } from "./types.ts";
+import { CurrentlyPlayingResponse, RecentlyPlayedResponse, SavedTracksResponse, Track } from "./types.ts";
+
+export type TopTrackTimeRange = "short_term" | "medium_term" | "long_term";
 
 export interface SpotifyAPIOptions {
   readonly clientId: string;
@@ -72,20 +74,20 @@ export class SpotifyAPI {
       return await r.json() as SavedTracksResponse;
     });
 
-    return resp;
+    return resp.items;
   }
 
-  async getTopTracks() {
-    const endpoint = "https://api.spotify.com/v1/me/top/tracks";
+  async getTopTracks(timeRange: TopTrackTimeRange = "medium_term") {
+    const endpoint = `https://api.spotify.com/v1/me/top/tracks?limit=50&time_range=${timeRange}`;
     const accessToken = await this.getAccessToken();
     const resp = await fetch(endpoint, this.#getRequestInit(accessToken)).then(async (r) => {
       if (!r.ok || r.body == null) {
         throw new Error(`${r.statusText}: ${r.status}`);
       }
-      return await r.json();
+      return await r.json<{ items: Track[] }>();
     });
 
-    return resp;
+    return resp.items;
   }
 
   async getAccessToken() {

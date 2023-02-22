@@ -14,6 +14,7 @@
     "suppressImplicitAnyIndexErrors": true
   },
   "tasks": {
-    "watch": "deno run -A --no-check --no-config --watch ./server.ts"
+    "watch": "deno run -A --no-check --no-config --watch ./server.ts",
+    "update-saved-tracks": "./tasks/update-saved-tracks.ts"
   }
 }

@@ -3,7 +3,6 @@ import { SpotifyAPI, SpotifyAPIOptions } from "./api.ts";
 import { ImageEncoder } from "./image-encoder.ts";
 import { render } from "./now-playing.ts";
 import { getSavedTracks } from "./saved-tracks.ts";
-import { Track } from "./types.ts";
 
 export interface SpotifyAppOptions extends SpotifyAPIOptions {}
 
@@ -34,21 +33,6 @@ export class SpotifyApp extends Hono {
     this.#registerHandlers();
 
     this.showRoutes();
-  }
-
-  async loadAllSavedTracks() {
-    let offset = 0;
-    const returnTracks: Track[] = [];
-    while (true) {
-      const currentTracks = (await this.api.getSavedTracks(offset)).items;
-      returnTracks.push(...currentTracks.map((t) => t.track));
-      if (currentTracks.length < 50) {
-        break;
-      }
-      offset += 50;
-    }
-    console.log(`Loaded ${returnTracks.length} favorite tracks`);
-    this.#savedTracksMap = new Map(returnTracks.map((t) => [t.id, t]));
   }
 
   get savedTracks() {

@@ -1,5 +1,314 @@
 [
   {
+    "added_at": "2023-02-22T21:19:54Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QWmN97HRZya55JvxN3I5a",
+          "id": "4QWmN97HRZya55JvxN3I5a",
+          "name": "Taiki Nulight",
+          "type": "artist",
+          "uri": "spotify:artist:4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6JKmZ4IRmRrBXzP7h4VRlQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/6JKmZ4IRmRrBXzP7h4VRlQ",
+      "id": "6JKmZ4IRmRrBXzP7h4VRlQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f252f49cf008b73f04140f6d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f252f49cf008b73f04140f6d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f252f49cf008b73f04140f6d",
+          "width": 64
+        }
+      ],
+      "name": "Don't Wanna Let Go",
+      "release_date": "2021-08-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6JKmZ4IRmRrBXzP7h4VRlQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        "href": "https://api.spotify.com/v1/artists/4QWmN97HRZya55JvxN3I5a",
+        "id": "4QWmN97HRZya55JvxN3I5a",
+        "name": "Taiki Nulight",
+        "type": "artist",
+        "uri": "spotify:artist:4QWmN97HRZya55JvxN3I5a"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        },
+        "href": "https://api.spotify.com/v1/artists/7mOEFI30ETW9l7SFMpXoH9",
+        "id": "7mOEFI30ETW9l7SFMpXoH9",
+        "name": "Eloise Keeble",
+        "type": "artist",
+        "uri": "spotify:artist:7mOEFI30ETW9l7SFMpXoH9"
+      }
+    ],
+    "duration_ms": 186666,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5Uygp1KAwyj41KSjwPt1Nz",
+    "id": "5Uygp1KAwyj41KSjwPt1Nz",
+    "name": "Don't Wanna Let Go",
+    "popularity": 50,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5Uygp1KAwyj41KSjwPt1Nz"
+  },
+  {
+    "added_at": "2023-02-21T20:04:09Z",
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+          },
+          "href": "https://api.spotify.com/v1/artists/714O3xvBNiclo82vxBn8Bf",
+          "id": "714O3xvBNiclo82vxBn8Bf",
+          "name": "k?d",
+          "type": "artist",
+          "uri": "spotify:artist:714O3xvBNiclo82vxBn8Bf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx"
+      },
+      "href": "https://api.spotify.com/v1/albums/233ci2Dl2HFr9PheUIWaUx",
+      "id": "233ci2Dl2HFr9PheUIWaUx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733f53264e1a75cd1a2a060a53",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023f53264e1a75cd1a2a060a53",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513f53264e1a75cd1a2a060a53",
+          "width": 64
+        }
+      ],
+      "name": "CAGE SCRIPT",
+      "release_date": "2022-12-09",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:233ci2Dl2HFr9PheUIWaUx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        "href": "https://api.spotify.com/v1/artists/714O3xvBNiclo82vxBn8Bf",
+        "id": "714O3xvBNiclo82vxBn8Bf",
+        "name": "k?d",
+        "type": "artist",
+        "uri": "spotify:artist:714O3xvBNiclo82vxBn8Bf"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        },
+        "href": "https://api.spotify.com/v1/artists/1A1ZXMqcpElewwm16R0cmk",
+        "id": "1A1ZXMqcpElewwm16R0cmk",
+        "name": "Cecilia Gault",
+        "type": "artist",
+        "uri": "spotify:artist:1A1ZXMqcpElewwm16R0cmk"
+      }
+    ],
+    "duration_ms": 170476,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/36iU4gfHhUbjwk88kZAwgW",
+    "id": "36iU4gfHhUbjwk88kZAwgW",
+    "name": "THREE IN THE MORNING",
+    "popularity": 43,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:36iU4gfHhUbjwk88kZAwgW"
+  },
+  {
+    "added_at": "2023-02-20T21:38:02Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f5Zgnp2spUuuzKplmRkt7",
+          "id": "7f5Zgnp2spUuuzKplmRkt7",
+          "name": "Lost Frequencies",
+          "type": "artist",
+          "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/31XCyHeqHVTFQXwpMoLTTF"
+      },
+      "href": "https://api.spotify.com/v1/albums/31XCyHeqHVTFQXwpMoLTTF",
+      "id": "31XCyHeqHVTFQXwpMoLTTF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27364eb674454338c356df96a2d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0264eb674454338c356df96a2d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485164eb674454338c356df96a2d",
+          "width": 64
+        }
+      ],
+      "name": "Chemical High (Remix Pack)",
+      "release_date": "2022-10-20",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:31XCyHeqHVTFQXwpMoLTTF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        "href": "https://api.spotify.com/v1/artists/7f5Zgnp2spUuuzKplmRkt7",
+        "id": "7f5Zgnp2spUuuzKplmRkt7",
+        "name": "Lost Frequencies",
+        "type": "artist",
+        "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+      }
+    ],
+    "duration_ms": 342999,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2hx2aaCXj7qaU480Wy7UzX",
+    "id": "2hx2aaCXj7qaU480Wy7UzX",
+    "name": "Chemical High - Deluxe Mix",
+    "popularity": 46,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2hx2aaCXj7qaU480Wy7UzX"
+  },
+  {
+    "added_at": "2023-02-13T23:31:41Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+          },
+          "href": "https://api.spotify.com/v1/artists/2VzzhmEHXT4nGim8nBw4ij",
+          "id": "2VzzhmEHXT4nGim8nBw4ij",
+          "name": "OCULA",
+          "type": "artist",
+          "uri": "spotify:artist:2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ctD2yNFX7W8uWIxTvirkx",
+          "id": "5ctD2yNFX7W8uWIxTvirkx",
+          "name": "Luke Coulson",
+          "type": "artist",
+          "uri": "spotify:artist:5ctD2yNFX7W8uWIxTvirkx"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2tMs4REgID4EI8n09Xt1U1"
+      },
+      "href": "https://api.spotify.com/v1/albums/2tMs4REgID4EI8n09Xt1U1",
+      "id": "2tMs4REgID4EI8n09Xt1U1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fb15a8f81fd5020ac8ba6bef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fb15a8f81fd5020ac8ba6bef",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fb15a8f81fd5020ac8ba6bef",
+          "width": 64
+        }
+      ],
+      "name": "Renaissance",
+      "release_date": "2022-09-30",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:2tMs4REgID4EI8n09Xt1U1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        "href": "https://api.spotify.com/v1/artists/2VzzhmEHXT4nGim8nBw4ij",
+        "id": "2VzzhmEHXT4nGim8nBw4ij",
+        "name": "OCULA",
+        "type": "artist",
+        "uri": "spotify:artist:2VzzhmEHXT4nGim8nBw4ij"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ctD2yNFX7W8uWIxTvirkx",
+        "id": "5ctD2yNFX7W8uWIxTvirkx",
+        "name": "Luke Coulson",
+        "type": "artist",
+        "uri": "spotify:artist:5ctD2yNFX7W8uWIxTvirkx"
+      }
+    ],
+    "duration_ms": 228250,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7moYWZMEBBi9JgO1vbmPU4",
+    "id": "7moYWZMEBBi9JgO1vbmPU4",
+    "name": "Renaissance",
+    "popularity": 27,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7moYWZMEBBi9JgO1vbmPU4"
+  },
+  {
+    "added_at": "2023-02-12T03:33:27Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -86,122 +395,7 @@
     "uri": "spotify:track:1zjpRtPJ5RErMk7nrM2ArP"
   },
   {
-    "album": {
-      "album_type": "single",
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-          },
-          "href": "https://api.spotify.com/v1/artists/656ibQgcoUQrUPdhQWRcI3",
-          "id": "656ibQgcoUQrUPdhQWRcI3",
-          "name": "SOMMA",
-          "type": "artist",
-          "uri": "spotify:artist:656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx"
-          },
-          "href": "https://api.spotify.com/v1/artists/2SdcyCKXwjtQJymVLGyBlx",
-          "id": "2SdcyCKXwjtQJymVLGyBlx",
-          "name": "Jamis",
-          "type": "artist",
-          "uri": "spotify:artist:2SdcyCKXwjtQJymVLGyBlx"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-          },
-          "href": "https://api.spotify.com/v1/artists/37fzXndf2fxVrk7qarhyo0",
-          "id": "37fzXndf2fxVrk7qarhyo0",
-          "name": "Leo Stannard",
-          "type": "artist",
-          "uri": "spotify:artist:37fzXndf2fxVrk7qarhyo0"
-        }
-      ],
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/5sDLRWZHNSxWX0KoKdOgNI"
-      },
-      "href": "https://api.spotify.com/v1/albums/5sDLRWZHNSxWX0KoKdOgNI",
-      "id": "5sDLRWZHNSxWX0KoKdOgNI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27387e1d133d651f39cbf62e5c6",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0287e1d133d651f39cbf62e5c6",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485187e1d133d651f39cbf62e5c6",
-          "width": 64
-        }
-      ],
-      "name": "Let It Bleed",
-      "release_date": "2022-01-28",
-      "release_date_precision": "day",
-      "total_tracks": 2,
-      "type": "album",
-      "uri": "spotify:album:5sDLRWZHNSxWX0KoKdOgNI"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        "href": "https://api.spotify.com/v1/artists/656ibQgcoUQrUPdhQWRcI3",
-        "id": "656ibQgcoUQrUPdhQWRcI3",
-        "name": "SOMMA",
-        "type": "artist",
-        "uri": "spotify:artist:656ibQgcoUQrUPdhQWRcI3"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx"
-        },
-        "href": "https://api.spotify.com/v1/artists/2SdcyCKXwjtQJymVLGyBlx",
-        "id": "2SdcyCKXwjtQJymVLGyBlx",
-        "name": "Jamis",
-        "type": "artist",
-        "uri": "spotify:artist:2SdcyCKXwjtQJymVLGyBlx"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        },
-        "href": "https://api.spotify.com/v1/artists/37fzXndf2fxVrk7qarhyo0",
-        "id": "37fzXndf2fxVrk7qarhyo0",
-        "name": "Leo Stannard",
-        "type": "artist",
-        "uri": "spotify:artist:37fzXndf2fxVrk7qarhyo0"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/45cP3p476ZtqaaATv4cScf"
-        },
-        "href": "https://api.spotify.com/v1/artists/45cP3p476ZtqaaATv4cScf",
-        "id": "45cP3p476ZtqaaATv4cScf",
-        "name": "HIISAK",
-        "type": "artist",
-        "uri": "spotify:artist:45cP3p476ZtqaaATv4cScf"
-      }
-    ],
-    "duration_ms": 161829,
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/4u5KbHYUrsO5ZTfAZe9Wa1",
-    "id": "4u5KbHYUrsO5ZTfAZe9Wa1",
-    "name": "Let It Bleed",
-    "popularity": 44,
-    "track_number": 1,
-    "type": "track",
-    "uri": "spotify:track:4u5KbHYUrsO5ZTfAZe9Wa1"
-  },
-  {
+    "added_at": "2023-02-11T11:33:31Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -308,6 +502,7 @@
     "uri": "spotify:track:3mE2sIa33kLQtTcSTWrylq"
   },
   {
+    "added_at": "2023-02-04T07:12:01Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -374,6 +569,7 @@
     "uri": "spotify:track:5ysRcpZAYSHvqtMNKgQQ16"
   },
   {
+    "added_at": "2023-01-25T02:04:54Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -474,12 +670,13 @@
     "href": "https://api.spotify.com/v1/tracks/5rWcCmqVjQpmmhbOpZ65aN",
     "id": "5rWcCmqVjQpmmhbOpZ65aN",
     "name": "Vertigo",
-    "popularity": 51,
+    "popularity": 52,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5rWcCmqVjQpmmhbOpZ65aN"
   },
   {
+    "added_at": "2023-01-24T15:25:43Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -546,6 +743,7 @@
     "uri": "spotify:track:74RQQSGzxODrh57UH2jykM"
   },
   {
+    "added_at": "2023-01-13T00:06:01Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -652,6 +850,7 @@
     "uri": "spotify:track:1GfBLbAhZUWdseuDqhocmn"
   },
   {
+    "added_at": "2023-01-03T20:47:51Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -738,6 +937,7 @@
     "uri": "spotify:track:7MbfrPIsgFDVJifA7p7Evk"
   },
   {
+    "added_at": "2022-12-18T14:42:42Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -818,12 +1018,13 @@
     "href": "https://api.spotify.com/v1/tracks/3KWV5kY52CQ4KwunPeH9Mz",
     "id": "3KWV5kY52CQ4KwunPeH9Mz",
     "name": "Overthinking",
-    "popularity": 45,
+    "popularity": 46,
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:3KWV5kY52CQ4KwunPeH9Mz"
   },
   {
+    "added_at": "2022-12-14T23:36:56Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -900,6 +1101,7 @@
     "uri": "spotify:track:2Y9bKUE50cHsTNgYLpM8Pd"
   },
   {
+    "added_at": "2022-12-13T15:35:59Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -1006,6 +1208,7 @@
     "uri": "spotify:track:0nqhQPgVJY5xWI6HLtjLsM"
   },
   {
+    "added_at": "2022-12-12T16:55:58Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -1086,12 +1289,13 @@
     "href": "https://api.spotify.com/v1/tracks/4S7HT0aSS0fuC7vBHkTImD",
     "id": "4S7HT0aSS0fuC7vBHkTImD",
     "name": "Keneth",
-    "popularity": 20,
+    "popularity": 18,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4S7HT0aSS0fuC7vBHkTImD"
   },
   {
+    "added_at": "2022-12-12T15:58:56Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -1152,12 +1356,13 @@
     "href": "https://api.spotify.com/v1/tracks/0hwWEmqAkJwar1acWj8ha7",
     "id": "0hwWEmqAkJwar1acWj8ha7",
     "name": "You & Me & You",
-    "popularity": 25,
+    "popularity": 24,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0hwWEmqAkJwar1acWj8ha7"
   },
   {
+    "added_at": "2022-12-04T16:05:40Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -1218,12 +1423,13 @@
     "href": "https://api.spotify.com/v1/tracks/0zkWmS5tEFgaHaXTSGQ2b1",
     "id": "0zkWmS5tEFgaHaXTSGQ2b1",
     "name": "Agape",
-    "popularity": 52,
+    "popularity": 51,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0zkWmS5tEFgaHaXTSGQ2b1"
   },
   {
+    "added_at": "2022-12-03T03:46:18Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -1290,6 +1496,7 @@
     "uri": "spotify:track:3GJbXOYweOltxSiOsCNkMd"
   },
   {
+    "added_at": "2022-12-02T23:13:12Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -1350,12 +1557,13 @@
     "href": "https://api.spotify.com/v1/tracks/7bDmfSbYvJuPOV0JKkM4qm",
     "id": "7bDmfSbYvJuPOV0JKkM4qm",
     "name": "Great Beyond",
-    "popularity": 25,
+    "popularity": 24,
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:7bDmfSbYvJuPOV0JKkM4qm"
   },
   {
+    "added_at": "2022-10-16T01:33:08Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -1442,6 +1650,7 @@
     "uri": "spotify:track:5RobAV5ROH5KARimi7n3cO"
   },
   {
+    "added_at": "2022-10-04T17:56:51Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -1522,12 +1731,13 @@
     "href": "https://api.spotify.com/v1/tracks/5Ar03Gplp9UlpKaQlPBN2u",
     "id": "5Ar03Gplp9UlpKaQlPBN2u",
     "name": "Lucid (feat. Nathan Ball) - Icarus Remix",
-    "popularity": 32,
+    "popularity": 31,
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:5Ar03Gplp9UlpKaQlPBN2u"
   },
   {
+    "added_at": "2022-09-21T13:58:50Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -1588,12 +1798,13 @@
     "href": "https://api.spotify.com/v1/tracks/7dLR2rP1Oh4684fir6JkH8",
     "id": "7dLR2rP1Oh4684fir6JkH8",
     "name": "Wish I Had You",
-    "popularity": 20,
+    "popularity": 19,
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:7dLR2rP1Oh4684fir6JkH8"
   },
   {
+    "added_at": "2022-09-03T14:32:23Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -1690,6 +1901,7 @@
     "uri": "spotify:track:0GhMImCJ8bJ1oKDZOhUedJ"
   },
   {
+    "added_at": "2022-08-29T18:48:35Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -1776,6 +1988,7 @@
     "uri": "spotify:track:1LIvdWNdKmHvU0FJvw2diN"
   },
   {
+    "added_at": "2022-08-18T18:30:47Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -1862,6 +2075,7 @@
     "uri": "spotify:track:1DOuZaf52j4O1zlyQpxSQx"
   },
   {
+    "added_at": "2022-08-17T17:36:30Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -1922,12 +2136,13 @@
     "href": "https://api.spotify.com/v1/tracks/1RpE81aLGGyxR9b9G6i60C",
     "id": "1RpE81aLGGyxR9b9G6i60C",
     "name": "Saturday Night",
-    "popularity": 28,
+    "popularity": 27,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1RpE81aLGGyxR9b9G6i60C"
   },
   {
+    "added_at": "2022-08-05T02:31:02Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -2014,6 +2229,7 @@
     "uri": "spotify:track:6txvQu0zUbiqG24A8XMLnK"
   },
   {
+    "added_at": "2022-07-28T21:49:25Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -2100,6 +2316,7 @@
     "uri": "spotify:track:70Qlewy7XO46zijMHSjbOG"
   },
   {
+    "added_at": "2022-07-25T11:33:18Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -2206,6 +2423,7 @@
     "uri": "spotify:track:5FM2LQo6zItfKqSPmDluYO"
   },
   {
+    "added_at": "2022-07-22T10:09:48Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -2272,6 +2490,7 @@
     "uri": "spotify:track:3eSkTeRAXvPqtzmYxUnhKd"
   },
   {
+    "added_at": "2022-07-12T03:23:49Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -2332,12 +2551,13 @@
     "href": "https://api.spotify.com/v1/tracks/5KeWNOjXTGZd2qATxVBLF8",
     "id": "5KeWNOjXTGZd2qATxVBLF8",
     "name": "Sound Of The Bass",
-    "popularity": 34,
+    "popularity": 33,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5KeWNOjXTGZd2qATxVBLF8"
   },
   {
+    "added_at": "2022-07-09T03:01:21Z",
     "album": {
       "album_type": "compilation",
       "artists": [
@@ -2414,6 +2634,7 @@
     "uri": "spotify:track:770zzJRmEN0sudaxuD7GkB"
   },
   {
+    "added_at": "2022-07-08T19:34:40Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -2474,12 +2695,13 @@
     "href": "https://api.spotify.com/v1/tracks/225lMWq2wtUmUeETswWKu8",
     "id": "225lMWq2wtUmUeETswWKu8",
     "name": "Enemy Brain",
-    "popularity": 44,
+    "popularity": 43,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:225lMWq2wtUmUeETswWKu8"
   },
   {
+    "added_at": "2022-07-06T01:21:23Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -2546,6 +2768,7 @@
     "uri": "spotify:track:2WlnczYDjRaMZNZCrCuxxo"
   },
   {
+    "added_at": "2022-07-05T21:20:26Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -2622,6 +2845,7 @@
     "uri": "spotify:track:3WU8qfOkAYasA6zUPzTquE"
   },
   {
+    "added_at": "2022-06-28T06:31:34Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -2718,6 +2942,7 @@
     "uri": "spotify:track:3UdSiAcoW4FT5s3X2QQ6P1"
   },
   {
+    "added_at": "2022-06-20T02:47:13Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -2778,7 +3003,7 @@
         },
         "href": "https://api.spotify.com/v1/artists/0W8xe7IqAPlnBRMUpWOUuJ",
         "id": "0W8xe7IqAPlnBRMUpWOUuJ",
-        "name": "Meg Myers",
+        "name": "MEG MYERS",
         "type": "artist",
         "uri": "spotify:artist:0W8xe7IqAPlnBRMUpWOUuJ"
       }
@@ -2794,6 +3019,7 @@
     "uri": "spotify:track:6fbNKnzlcQzbtryQYSxpMb"
   },
   {
+    "added_at": "2022-06-19T19:51:35Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -2870,6 +3096,7 @@
     "uri": "spotify:track:3wK37814vyrRNUvTV4R2MU"
   },
   {
+    "added_at": "2022-06-13T04:39:16Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -2936,6 +3163,7 @@
     "uri": "spotify:track:0Z3azmUTP30fOD1XJ0hSjV"
   },
   {
+    "added_at": "2022-06-11T08:42:46Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -3002,6 +3230,7 @@
     "uri": "spotify:track:62tDpymKVSXEu0W3d4AMr9"
   },
   {
+    "added_at": "2022-06-01T21:37:31Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -3068,6 +3297,7 @@
     "uri": "spotify:track:2N5tXl1rXW6udjEOwIXyXc"
   },
   {
+    "added_at": "2022-06-01T05:05:05Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -3154,6 +3384,7 @@
     "uri": "spotify:track:542RylZnovDri325OqlBGr"
   },
   {
+    "added_at": "2022-05-31T18:08:50Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -3220,6 +3451,7 @@
     "uri": "spotify:track:1Yn9QV55OP5E5Ix8HBxehr"
   },
   {
+    "added_at": "2022-05-22T03:36:12Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -3280,12 +3512,13 @@
     "href": "https://api.spotify.com/v1/tracks/3olgZmF1O7MHpv76iHmDDf",
     "id": "3olgZmF1O7MHpv76iHmDDf",
     "name": "Joi",
-    "popularity": 45,
+    "popularity": 46,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3olgZmF1O7MHpv76iHmDDf"
   },
   {
+    "added_at": "2022-05-21T06:11:42Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -3352,6 +3585,7 @@
     "uri": "spotify:track:4tiKcqZbLytwislCp3LWlb"
   },
   {
+    "added_at": "2022-05-07T10:31:30Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -3428,6 +3662,7 @@
     "uri": "spotify:track:1YyOwwRXCi40ZpL72Ap1fJ"
   },
   {
+    "added_at": "2022-04-29T09:53:25Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -3514,6 +3749,7 @@
     "uri": "spotify:track:0z3JS5nlGSQzTEVdaSWmze"
   },
   {
+    "added_at": "2022-04-27T01:58:24Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -3594,12 +3830,13 @@
     "href": "https://api.spotify.com/v1/tracks/7aB2EGiCuCURqfUBqXJy9p",
     "id": "7aB2EGiCuCURqfUBqXJy9p",
     "name": "Treat You Better - Cassian Extended Edit",
-    "popularity": 16,
+    "popularity": 15,
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:7aB2EGiCuCURqfUBqXJy9p"
   },
   {
+    "added_at": "2022-04-16T20:25:24Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -3686,6 +3923,7 @@
     "uri": "spotify:track:7ynuyeE8PHWbQhYJpryxSH"
   },
   {
+    "added_at": "2022-04-11T08:56:58Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -3792,6 +4030,7 @@
     "uri": "spotify:track:1nqPEAtw3N7by96hkxUD6v"
   },
   {
+    "added_at": "2022-04-06T03:28:13Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -3858,6 +4097,7 @@
     "uri": "spotify:track:3IvodZAm4vD1PM3bIEw9Ik"
   },
   {
+    "added_at": "2022-03-31T03:57:26Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -3928,12 +4168,13 @@
     "href": "https://api.spotify.com/v1/tracks/1YfOwYwRmvCSTRRPnMYSep",
     "id": "1YfOwYwRmvCSTRRPnMYSep",
     "name": "Wait for a Dream (feat. Baerd)",
-    "popularity": 31,
+    "popularity": 33,
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:1YfOwYwRmvCSTRRPnMYSep"
   },
   {
+    "added_at": "2022-03-27T03:20:53Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -4000,6 +4241,7 @@
     "uri": "spotify:track:22UPkpMAwkxdsZnuS1tAxW"
   },
   {
+    "added_at": "2022-03-13T15:52:19Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -4090,12 +4332,13 @@
     "href": "https://api.spotify.com/v1/tracks/5lIlwCysofF8YMbHAuF7hp",
     "id": "5lIlwCysofF8YMbHAuF7hp",
     "name": "For Love",
-    "popularity": 37,
+    "popularity": 36,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5lIlwCysofF8YMbHAuF7hp"
   },
   {
+    "added_at": "2022-03-12T01:36:15Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -4176,12 +4419,13 @@
     "href": "https://api.spotify.com/v1/tracks/7xzfAzZ2jOf7XNOt85D4py",
     "id": "7xzfAzZ2jOf7XNOt85D4py",
     "name": "Want U There - Logistics Remix",
-    "popularity": 15,
+    "popularity": 12,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7xzfAzZ2jOf7XNOt85D4py"
   },
   {
+    "added_at": "2022-03-11T08:47:58Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -4252,12 +4496,13 @@
     "href": "https://api.spotify.com/v1/tracks/29ViLdGrAB7UEpno3ChkVM",
     "id": "29ViLdGrAB7UEpno3ChkVM",
     "name": "Unbound",
-    "popularity": 24,
+    "popularity": 25,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:29ViLdGrAB7UEpno3ChkVM"
   },
   {
+    "added_at": "2022-03-07T16:25:57Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -4334,6 +4579,7 @@
     "uri": "spotify:track:4fAOR4ky2Rb9mn2uV5Me8O"
   },
   {
+    "added_at": "2022-02-27T03:37:20Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -4420,6 +4666,7 @@
     "uri": "spotify:track:12N23tQKmfGcEO0z8ObwtM"
   },
   {
+    "added_at": "2022-02-20T05:03:39Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -4496,6 +4743,7 @@
     "uri": "spotify:track:3MG0egZGKtU6Pw5HA16GNo"
   },
   {
+    "added_at": "2022-02-12T03:06:54Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -4572,6 +4820,7 @@
     "uri": "spotify:track:06U3tIapsJ0X6dZx5nhLtt"
   },
   {
+    "added_at": "2022-02-08T08:08:09Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -4658,6 +4907,7 @@
     "uri": "spotify:track:6Z5NPPpYnWRxGHQyWz2bPx"
   },
   {
+    "added_at": "2022-01-26T10:37:50Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -4734,6 +4984,7 @@
     "uri": "spotify:track:0tlztRFDgCSnAbUxllcZJJ"
   },
   {
+    "added_at": "2022-01-26T04:24:12Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -4820,6 +5071,7 @@
     "uri": "spotify:track:60EstL2lXH7K3J1zR8VxPN"
   },
   {
+    "added_at": "2022-01-26T04:10:51Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -4880,12 +5132,13 @@
     "href": "https://api.spotify.com/v1/tracks/3HyRkTF1i9caeQJnF6tTrq",
     "id": "3HyRkTF1i9caeQJnF6tTrq",
     "name": "Gone",
-    "popularity": 1,
+    "popularity": 0,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3HyRkTF1i9caeQJnF6tTrq"
   },
   {
+    "added_at": "2022-01-25T20:39:51Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -4952,6 +5205,7 @@
     "uri": "spotify:track:4O3APpGNhOldqDsPF8IaS5"
   },
   {
+    "added_at": "2022-01-15T10:42:06Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -5018,6 +5272,7 @@
     "uri": "spotify:track:2OMCOMvmKEb6dwbblV6jn2"
   },
   {
+    "added_at": "2022-01-14T10:41:36Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -5094,6 +5349,7 @@
     "uri": "spotify:track:6i7NeCOCtAOsjtB3gSB8qs"
   },
   {
+    "added_at": "2022-01-04T17:44:05Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -5160,6 +5416,7 @@
     "uri": "spotify:track:0za5G50kbPJNA8wyqodYWT"
   },
   {
+    "added_at": "2022-01-03T18:09:06Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -5236,6 +5493,7 @@
     "uri": "spotify:track:6tTDDMmEJpyA97VNYQjjeP"
   },
   {
+    "added_at": "2021-12-31T20:55:43Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -5322,6 +5580,7 @@
     "uri": "spotify:track:3WQNZGxBqsm601jmSqcLgR"
   },
   {
+    "added_at": "2021-12-14T00:15:35Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -5408,6 +5667,7 @@
     "uri": "spotify:track:2n6qz4opcJlHsEpI8030YM"
   },
   {
+    "added_at": "2021-12-04T03:04:58Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -5494,6 +5754,7 @@
     "uri": "spotify:track:70nUQ9n4i1jJiZLlo6OtR8"
   },
   {
+    "added_at": "2021-11-30T11:11:57Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -5580,6 +5841,7 @@
     "uri": "spotify:track:4G4patpYxsF6ovHZOX9wgR"
   },
   {
+    "added_at": "2021-11-30T06:31:10Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -5666,6 +5928,7 @@
     "uri": "spotify:track:1Spnjxj7Bx92CbPVC5p1Cr"
   },
   {
+    "added_at": "2021-11-09T10:21:37Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -5732,6 +5995,7 @@
     "uri": "spotify:track:0OKkWbiDJ33FFDqAybJFUM"
   },
   {
+    "added_at": "2021-11-08T10:20:12Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -5818,6 +6082,7 @@
     "uri": "spotify:track:7wp9n1fHEULCkpV2sXYCrq"
   },
   {
+    "added_at": "2021-11-04T09:28:13Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -5904,6 +6169,7 @@
     "uri": "spotify:track:299lnrCInmGfXBeSu8A6lw"
   },
   {
+    "added_at": "2021-11-02T10:44:55Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -5990,6 +6256,7 @@
     "uri": "spotify:track:62hnC1BHUxLq6er13Nznnd"
   },
   {
+    "added_at": "2021-11-02T07:26:26Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -6056,6 +6323,7 @@
     "uri": "spotify:track:5RIQAscyytbIzWpkB1G7mt"
   },
   {
+    "added_at": "2021-11-01T09:00:39Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -6136,12 +6404,13 @@
     "href": "https://api.spotify.com/v1/tracks/6UjYnivG0ZZeoRXaLbzEQC",
     "id": "6UjYnivG0ZZeoRXaLbzEQC",
     "name": "last night (eclipse)",
-    "popularity": 22,
+    "popularity": 23,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6UjYnivG0ZZeoRXaLbzEQC"
   },
   {
+    "added_at": "2021-10-24T06:45:07Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -6248,6 +6517,7 @@
     "uri": "spotify:track:15BCiNT8YBJ5IvSOLR2qIR"
   },
   {
+    "added_at": "2021-10-23T20:35:22Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -6334,6 +6604,7 @@
     "uri": "spotify:track:7rtkDhmjlt2CMWfMnQDi9i"
   },
   {
+    "added_at": "2021-10-18T19:24:23Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -6400,6 +6671,7 @@
     "uri": "spotify:track:056o22JVIosLPAF9ZTPVqV"
   },
   {
+    "added_at": "2021-10-14T05:14:20Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -6496,6 +6768,7 @@
     "uri": "spotify:track:3Cy2S8iTt15eUf3i0LQneT"
   },
   {
+    "added_at": "2021-10-10T06:59:56Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -6582,6 +6855,7 @@
     "uri": "spotify:track:0gH5lfBCMOc2GlAzTxDlSg"
   },
   {
+    "added_at": "2021-10-10T06:13:10Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -6668,6 +6942,7 @@
     "uri": "spotify:track:1V2Z18nOByb7DqCECFh2Yt"
   },
   {
+    "added_at": "2021-10-09T22:13:56Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -6734,6 +7009,7 @@
     "uri": "spotify:track:3xmdxrY0uRkYeUGEf0Ffvp"
   },
   {
+    "added_at": "2021-10-09T00:28:50Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -6820,6 +7096,7 @@
     "uri": "spotify:track:5YGwrhUyFhgi0pp50XzD4A"
   },
   {
+    "added_at": "2021-10-06T01:41:26Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -6886,6 +7163,7 @@
     "uri": "spotify:track:6wUc42SOF3zzn163c3ODrw"
   },
   {
+    "added_at": "2021-10-03T16:35:42Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -6992,6 +7270,7 @@
     "uri": "spotify:track:1wHDTJulNyumFWqSBVFXvl"
   },
   {
+    "added_at": "2021-09-28T10:58:20Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -7082,12 +7361,13 @@
     "href": "https://api.spotify.com/v1/tracks/13QOuulZAdTeb17cauzHCB",
     "id": "13QOuulZAdTeb17cauzHCB",
     "name": "Keep Going",
-    "popularity": 26,
+    "popularity": 25,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:13QOuulZAdTeb17cauzHCB"
   },
   {
+    "added_at": "2021-09-22T17:36:06Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -7154,6 +7434,7 @@
     "uri": "spotify:track:3MMIHEen0IE3bsGtlgK3Dv"
   },
   {
+    "added_at": "2021-09-20T06:56:40Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -7234,12 +7515,13 @@
     "href": "https://api.spotify.com/v1/tracks/4baJBjEwUYBdh5TNThlc6b",
     "id": "4baJBjEwUYBdh5TNThlc6b",
     "name": "X&O",
-    "popularity": 48,
+    "popularity": 47,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4baJBjEwUYBdh5TNThlc6b"
   },
   {
+    "added_at": "2021-09-19T18:46:32Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -7320,12 +7602,13 @@
     "href": "https://api.spotify.com/v1/tracks/3eKdMlPONnxz5quSb2VpKU",
     "id": "3eKdMlPONnxz5quSb2VpKU",
     "name": "Ice & Cold",
-    "popularity": 48,
+    "popularity": 49,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3eKdMlPONnxz5quSb2VpKU"
   },
   {
+    "added_at": "2021-09-18T23:00:02Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -7422,6 +7705,7 @@
     "uri": "spotify:track:496cbjL6L8hREbKLyUBUJ7"
   },
   {
+    "added_at": "2021-09-18T10:10:52Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -7508,6 +7792,7 @@
     "uri": "spotify:track:6TrdBIQD1s5axdVR1qk0OF"
   },
   {
+    "added_at": "2021-09-16T04:24:29Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -7584,6 +7869,7 @@
     "uri": "spotify:track:6rAbSwrfReG9rpcmwIsgPH"
   },
   {
+    "added_at": "2021-09-14T20:45:43Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -7654,12 +7940,13 @@
     "href": "https://api.spotify.com/v1/tracks/47sLhcvb6LEfVgnjFlyYgM",
     "id": "47sLhcvb6LEfVgnjFlyYgM",
     "name": "Options - Thor Rixon Remix",
-    "popularity": 25,
+    "popularity": 22,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:47sLhcvb6LEfVgnjFlyYgM"
   },
   {
+    "added_at": "2021-09-08T08:20:25Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -7746,6 +8033,7 @@
     "uri": "spotify:track:5iX6vuK0LxrNUtuTjj4kpq"
   },
   {
+    "added_at": "2021-09-07T04:44:20Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -7812,6 +8100,7 @@
     "uri": "spotify:track:5HfQ06QixaFMBV6Rjb37V0"
   },
   {
+    "added_at": "2021-09-04T19:38:41Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -7872,12 +8161,13 @@
     "href": "https://api.spotify.com/v1/tracks/73DxBkVdFfMajhuorFNIeS",
     "id": "73DxBkVdFfMajhuorFNIeS",
     "name": "The Hills",
-    "popularity": 31,
+    "popularity": 30,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:73DxBkVdFfMajhuorFNIeS"
   },
   {
+    "added_at": "2021-09-04T10:37:01Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -7944,6 +8234,7 @@
     "uri": "spotify:track:3ZLQMBYxrdLIYw0HW00BVm"
   },
   {
+    "added_at": "2021-09-04T04:17:30Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8010,6 +8301,7 @@
     "uri": "spotify:track:2uQWlHmYdUJywm2ZLSnVho"
   },
   {
+    "added_at": "2021-08-30T03:54:42Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8090,12 +8382,13 @@
     "href": "https://api.spotify.com/v1/tracks/3VhngLAWsDigMXslv72LnT",
     "id": "3VhngLAWsDigMXslv72LnT",
     "name": "Zest Please",
-    "popularity": 38,
+    "popularity": 39,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3VhngLAWsDigMXslv72LnT"
   },
   {
+    "added_at": "2021-08-29T12:22:56Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8162,6 +8455,7 @@
     "uri": "spotify:track:30KHsLMrLXOy86cbXtDZ2q"
   },
   {
+    "added_at": "2021-08-29T09:36:30Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8238,6 +8532,7 @@
     "uri": "spotify:track:4e9q1J9F4r73HnoISaCims"
   },
   {
+    "added_at": "2021-08-28T09:31:01Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8324,6 +8619,7 @@
     "uri": "spotify:track:0ywzvARVqoxQOJpaswRe9E"
   },
   {
+    "added_at": "2021-08-28T02:17:30Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8390,6 +8686,7 @@
     "uri": "spotify:track:6XxLyQcf5medRSvuMo2B50"
   },
   {
+    "added_at": "2021-08-27T08:49:29Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8450,12 +8747,13 @@
     "href": "https://api.spotify.com/v1/tracks/0c7OcnAQz6H3IIzQA3MP6C",
     "id": "0c7OcnAQz6H3IIzQA3MP6C",
     "name": "More To Give",
-    "popularity": 42,
+    "popularity": 41,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0c7OcnAQz6H3IIzQA3MP6C"
   },
   {
+    "added_at": "2021-08-27T08:36:05Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8536,12 +8834,13 @@
     "href": "https://api.spotify.com/v1/tracks/4cGuJc0URLzpQdh6feAMZS",
     "id": "4cGuJc0URLzpQdh6feAMZS",
     "name": "Flashlight",
-    "popularity": 25,
+    "popularity": 24,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4cGuJc0URLzpQdh6feAMZS"
   },
   {
+    "added_at": "2021-08-27T08:09:40Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8612,12 +8911,13 @@
     "href": "https://api.spotify.com/v1/tracks/4nQnhWKlbBkfVwZBGozNnQ",
     "id": "4nQnhWKlbBkfVwZBGozNnQ",
     "name": "wanderer",
-    "popularity": 31,
+    "popularity": 30,
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:4nQnhWKlbBkfVwZBGozNnQ"
   },
   {
+    "added_at": "2021-08-26T20:48:54Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8678,12 +8978,13 @@
     "href": "https://api.spotify.com/v1/tracks/5UNnhT9Ni6tW72zFLADsjy",
     "id": "5UNnhT9Ni6tW72zFLADsjy",
     "name": "Sights",
-    "popularity": 44,
+    "popularity": 43,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5UNnhT9Ni6tW72zFLADsjy"
   },
   {
+    "added_at": "2021-08-25T21:25:25Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8744,12 +9045,13 @@
     "href": "https://api.spotify.com/v1/tracks/1d3bEVe13VwmXu1l7ALKJa",
     "id": "1d3bEVe13VwmXu1l7ALKJa",
     "name": "Let Go",
-    "popularity": 34,
+    "popularity": 33,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1d3bEVe13VwmXu1l7ALKJa"
   },
   {
+    "added_at": "2021-08-25T12:10:58Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8816,6 +9118,7 @@
     "uri": "spotify:track:6qlWh52SoBOb6udnz3Xwxj"
   },
   {
+    "added_at": "2021-08-19T09:38:52Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8902,6 +9205,7 @@
     "uri": "spotify:track:3aPaa10F8G5yzzh9Eb6ayQ"
   },
   {
+    "added_at": "2021-08-19T09:38:47Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -8988,6 +9292,7 @@
     "uri": "spotify:track:0dLHJRrBKfLM3OwLHvrmEd"
   },
   {
+    "added_at": "2021-08-18T17:41:02Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -9054,6 +9359,7 @@
     "uri": "spotify:track:73J0XZfBhvGgCloBnkXVCP"
   },
   {
+    "added_at": "2021-08-18T12:37:49Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -9160,6 +9466,7 @@
     "uri": "spotify:track:1GwqcAFR5f3r5xdwtYuuY4"
   },
   {
+    "added_at": "2021-08-17T22:38:40Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -9256,6 +9563,7 @@
     "uri": "spotify:track:3Y4uLY1VnbHHRHPP2RpVv3"
   },
   {
+    "added_at": "2021-08-17T11:55:44Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -9332,6 +9640,7 @@
     "uri": "spotify:track:520NIyTdnCjJDeQyT1fzXt"
   },
   {
+    "added_at": "2021-08-14T09:51:51Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -9398,6 +9707,7 @@
     "uri": "spotify:track:50ajnEucwfTCrkOFu21ZgB"
   },
   {
+    "added_at": "2021-08-14T09:24:28Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -9484,6 +9794,7 @@
     "uri": "spotify:track:2QC2PTvF3yONXlvih301aR"
   },
   {
+    "added_at": "2021-08-14T03:48:15Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -9550,6 +9861,7 @@
     "uri": "spotify:track:44MxUoeZg6FXDlHMrSbVjX"
   },
   {
+    "added_at": "2021-08-13T21:42:56Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -9616,6 +9928,7 @@
     "uri": "spotify:track:0sDL6c7BZGffS71ICuJqF4"
   },
   {
+    "added_at": "2021-08-12T22:56:09Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -9716,12 +10029,13 @@
     "href": "https://api.spotify.com/v1/tracks/5hr78iWO7OLi0xcxA7iA5g",
     "id": "5hr78iWO7OLi0xcxA7iA5g",
     "name": "Upside Down (Le Youth Remix)",
-    "popularity": 17,
+    "popularity": 16,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5hr78iWO7OLi0xcxA7iA5g"
   },
   {
+    "added_at": "2021-08-08T08:37:14Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -9788,6 +10102,7 @@
     "uri": "spotify:track:5BjXiQdBBy10FQemhcRqIS"
   },
   {
+    "added_at": "2021-08-08T04:07:17Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -9864,6 +10179,7 @@
     "uri": "spotify:track:3FLxGmYJyextdbsVPZxn5p"
   },
   {
+    "added_at": "2021-08-08T03:36:20Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -9934,12 +10250,13 @@
     "href": "https://api.spotify.com/v1/tracks/21xQCaFIcz9lZNf9u5ySev",
     "id": "21xQCaFIcz9lZNf9u5ySev",
     "name": "Kids",
-    "popularity": 10,
+    "popularity": 7,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:21xQCaFIcz9lZNf9u5ySev"
   },
   {
+    "added_at": "2021-08-07T01:14:34Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -10000,12 +10317,13 @@
     "href": "https://api.spotify.com/v1/tracks/65WxintbjsESKlBJBlyGzK",
     "id": "65WxintbjsESKlBJBlyGzK",
     "name": "Touch Me (Hold My Hand)",
-    "popularity": 31,
+    "popularity": 30,
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:65WxintbjsESKlBJBlyGzK"
   },
   {
+    "added_at": "2021-08-07T01:14:31Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -10076,12 +10394,13 @@
     "href": "https://api.spotify.com/v1/tracks/74K9eR3fwxau1Lt5ocy3tP",
     "id": "74K9eR3fwxau1Lt5ocy3tP",
     "name": "Esther",
-    "popularity": 37,
+    "popularity": 36,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:74K9eR3fwxau1Lt5ocy3tP"
   },
   {
+    "added_at": "2021-08-06T09:20:36Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -10168,6 +10487,7 @@
     "uri": "spotify:track:0GQIKU1SAydsJmcZCr4OF0"
   },
   {
+    "added_at": "2021-08-01T09:23:34Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -10234,6 +10554,7 @@
     "uri": "spotify:track:4lo10VZBbopLItxqwVu4H1"
   },
   {
+    "added_at": "2021-07-26T22:44:43Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -10300,6 +10621,7 @@
     "uri": "spotify:track:3R3OYD2T8IR3BAYfCpBgdP"
   },
   {
+    "added_at": "2021-07-26T20:06:54Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -10366,6 +10688,7 @@
     "uri": "spotify:track:58RXFvoX6t0JNYDls2ANh2"
   },
   {
+    "added_at": "2021-07-18T08:42:10Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -10472,6 +10795,7 @@
     "uri": "spotify:track:2PtssgaplWt6pf8x5AzyNi"
   },
   {
+    "added_at": "2021-07-17T03:48:05Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -10538,6 +10862,7 @@
     "uri": "spotify:track:0ie7omtYpFvhxny3AIn1iZ"
   },
   {
+    "added_at": "2021-07-17T02:00:54Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -10624,6 +10949,7 @@
     "uri": "spotify:track:6hHSBAyG8Btyejq0GOrTab"
   },
   {
+    "added_at": "2021-07-15T22:48:16Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -10690,6 +11016,7 @@
     "uri": "spotify:track:0b4FAp9BjRoh9MmCs3TI0D"
   },
   {
+    "added_at": "2021-07-08T19:59:09Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -10776,6 +11103,7 @@
     "uri": "spotify:track:7bv05GHdxzKxaQVdN5NbzP"
   },
   {
+    "added_at": "2021-07-08T19:09:31Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -10862,6 +11190,7 @@
     "uri": "spotify:track:07KRbcJp40tUJxzwqt0sR8"
   },
   {
+    "added_at": "2021-07-08T00:58:11Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -10948,6 +11277,7 @@
     "uri": "spotify:track:5IH5AcpMQCGSv7vtAL5c6X"
   },
   {
+    "added_at": "2021-07-07T22:57:45Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11008,12 +11338,13 @@
     "href": "https://api.spotify.com/v1/tracks/3QFRJMTSuBZMj9xOKxFpQl",
     "id": "3QFRJMTSuBZMj9xOKxFpQl",
     "name": "Need You",
-    "popularity": 31,
+    "popularity": 30,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3QFRJMTSuBZMj9xOKxFpQl"
   },
   {
+    "added_at": "2021-06-28T13:58:04Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11120,6 +11451,7 @@
     "uri": "spotify:track:7txCnEZ8El270pM2aUMHRO"
   },
   {
+    "added_at": "2021-06-15T19:08:29Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11186,6 +11518,7 @@
     "uri": "spotify:track:0s2Xg9JK4pRQ3KSoeSPI8X"
   },
   {
+    "added_at": "2021-06-11T22:41:40Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11252,6 +11585,7 @@
     "uri": "spotify:track:20m89DfxRQKZCGa92WV1hy"
   },
   {
+    "added_at": "2021-06-10T21:09:48Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11358,6 +11692,7 @@
     "uri": "spotify:track:6K6dn88zG4gPhJb7UDYKiM"
   },
   {
+    "added_at": "2021-06-09T23:11:22Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11444,6 +11779,7 @@
     "uri": "spotify:track:67hioVhWrtqUF5WOZpI2V6"
   },
   {
+    "added_at": "2021-06-08T23:18:22Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11524,12 +11860,13 @@
     "href": "https://api.spotify.com/v1/tracks/1SWC2QO7JQJdRH7QqFy3vl",
     "id": "1SWC2QO7JQJdRH7QqFy3vl",
     "name": "Saturday Night",
-    "popularity": 45,
+    "popularity": 46,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1SWC2QO7JQJdRH7QqFy3vl"
   },
   {
+    "added_at": "2021-06-08T00:22:55Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11596,6 +11933,7 @@
     "uri": "spotify:track:0lU4SmXBQD65YduAuXVrAc"
   },
   {
+    "added_at": "2021-06-07T16:54:56Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11662,6 +12000,7 @@
     "uri": "spotify:track:77e0lnvWMyji6LrUlNSYhZ"
   },
   {
+    "added_at": "2021-06-07T13:17:36Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11748,6 +12087,7 @@
     "uri": "spotify:track:5RrhrF2WdWsFexwj7LXHvr"
   },
   {
+    "added_at": "2021-06-02T19:21:52Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11814,6 +12154,7 @@
     "uri": "spotify:track:2dd3VTFfbTNJXpvhNGnFzQ"
   },
   {
+    "added_at": "2021-06-01T03:12:29Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11874,12 +12215,13 @@
     "href": "https://api.spotify.com/v1/tracks/3Tw9Z8J4DLL1Y2zVyBiDg0",
     "id": "3Tw9Z8J4DLL1Y2zVyBiDg0",
     "name": "Thief",
-    "popularity": 23,
+    "popularity": 19,
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:3Tw9Z8J4DLL1Y2zVyBiDg0"
   },
   {
+    "added_at": "2021-05-29T22:06:43Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -11950,12 +12292,13 @@
     "href": "https://api.spotify.com/v1/tracks/7ClE91ZjLxV5do8bAAxDe0",
     "id": "7ClE91ZjLxV5do8bAAxDe0",
     "name": "Decision",
-    "popularity": 40,
+    "popularity": 49,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7ClE91ZjLxV5do8bAAxDe0"
   },
   {
+    "added_at": "2021-05-29T07:46:32Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -12032,6 +12375,7 @@
     "uri": "spotify:track:5ZIJUowkhcLukruA52sfDI"
   },
   {
+    "added_at": "2021-05-22T16:31:11Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -12138,6 +12482,7 @@
     "uri": "spotify:track:5ylMA5GG8VDjcYUGts2QNt"
   },
   {
+    "added_at": "2021-05-19T15:39:05Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -12204,6 +12549,7 @@
     "uri": "spotify:track:72VyFG8WRK6CeV3ToXccOm"
   },
   {
+    "added_at": "2021-05-12T04:51:35Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -12284,12 +12630,13 @@
     "href": "https://api.spotify.com/v1/tracks/2zIsLfNas0SC9M1v8fqtCi",
     "id": "2zIsLfNas0SC9M1v8fqtCi",
     "name": "NEW DAY",
-    "popularity": 26,
+    "popularity": 27,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:2zIsLfNas0SC9M1v8fqtCi"
   },
   {
+    "added_at": "2021-05-12T02:51:06Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -12370,12 +12717,13 @@
     "href": "https://api.spotify.com/v1/tracks/4GK0EzAasrQcBFrynN0Tcu",
     "id": "4GK0EzAasrQcBFrynN0Tcu",
     "name": "Pieces - LOVRA Remix",
-    "popularity": 49,
+    "popularity": 50,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4GK0EzAasrQcBFrynN0Tcu"
   },
   {
+    "added_at": "2021-05-01T23:30:43Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -12446,12 +12794,13 @@
     "href": "https://api.spotify.com/v1/tracks/5xB5b4L2jOylbYhSf15PTq",
     "id": "5xB5b4L2jOylbYhSf15PTq",
     "name": "I Can't Sleep",
-    "popularity": 52,
+    "popularity": 53,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5xB5b4L2jOylbYhSf15PTq"
   },
   {
+    "added_at": "2021-05-01T23:29:11Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -12518,6 +12867,7 @@
     "uri": "spotify:track:5F3UtN6bBvyvxfcrMh0vVh"
   },
   {
+    "added_at": "2021-04-28T19:02:37Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -12604,6 +12954,7 @@
     "uri": "spotify:track:4UWYz4VDyycuuyN2A9B2sY"
   },
   {
+    "added_at": "2021-04-28T17:58:37Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -12670,6 +13021,7 @@
     "uri": "spotify:track:4oDRXykJhBsUZJOODiQ18M"
   },
   {
+    "added_at": "2021-04-26T23:15:20Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -12746,6 +13098,7 @@
     "uri": "spotify:track:39GlMuuiDzIUjCUjnBJsks"
   },
   {
+    "added_at": "2021-04-25T22:39:12Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -12852,6 +13205,7 @@
     "uri": "spotify:track:0qVepAhYMaqMTrZVyUrICZ"
   },
   {
+    "added_at": "2021-04-25T21:27:36Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -12918,6 +13272,7 @@
     "uri": "spotify:track:0eN1RPkuWomQZXionj6cBp"
   },
   {
+    "added_at": "2021-04-22T00:55:15Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -12988,12 +13343,13 @@
     "href": "https://api.spotify.com/v1/tracks/6A53tLi9vpLhmgaEvzRyip",
     "id": "6A53tLi9vpLhmgaEvzRyip",
     "name": "Heat Waves - Diplo Remix",
-    "popularity": 51,
+    "popularity": 52,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6A53tLi9vpLhmgaEvzRyip"
   },
   {
+    "added_at": "2021-04-09T02:35:52Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -13080,6 +13436,7 @@
     "uri": "spotify:track:3vkzxY2aRL7uhz2BIFzT0V"
   },
   {
+    "added_at": "2021-04-06T20:59:42Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -13166,6 +13523,7 @@
     "uri": "spotify:track:3INNLgKkHn8HOodDulCd7x"
   },
   {
+    "added_at": "2021-04-04T01:38:30Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -13242,6 +13600,7 @@
     "uri": "spotify:track:2tHfNQnj50VoMZga2rpfdA"
   },
   {
+    "added_at": "2021-04-01T01:15:47Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -13318,6 +13677,7 @@
     "uri": "spotify:track:1lqr9hEnB4QBv0CA4xtH8Q"
   },
   {
+    "added_at": "2021-03-25T18:39:29Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -13378,12 +13738,13 @@
     "href": "https://api.spotify.com/v1/tracks/0WDHsTEgyvjw4EM24O0Tyd",
     "id": "0WDHsTEgyvjw4EM24O0Tyd",
     "name": "Love Is Killing Me",
-    "popularity": 50,
+    "popularity": 49,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0WDHsTEgyvjw4EM24O0Tyd"
   },
   {
+    "added_at": "2021-03-24T01:29:03Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -13450,6 +13811,7 @@
     "uri": "spotify:track:0PSSGgPnY4RZONhmpXfNP3"
   },
   {
+    "added_at": "2021-03-23T00:51:37Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -13516,6 +13878,7 @@
     "uri": "spotify:track:42tQ6vLyJ3zYhqICK2EIFi"
   },
   {
+    "added_at": "2021-03-11T18:26:57Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -13622,6 +13985,7 @@
     "uri": "spotify:track:4yhGckNp8uAAEIi0WjcsGx"
   },
   {
+    "added_at": "2021-03-11T13:41:35Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -13682,12 +14046,13 @@
     "href": "https://api.spotify.com/v1/tracks/7Fo51x6cURFo9jCzcv7WOL",
     "id": "7Fo51x6cURFo9jCzcv7WOL",
     "name": "One Drink",
-    "popularity": 46,
+    "popularity": 45,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7Fo51x6cURFo9jCzcv7WOL"
   },
   {
+    "added_at": "2021-03-09T20:10:59Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -13784,6 +14149,7 @@
     "uri": "spotify:track:18iFN3VoOZzULEZGSBqHZL"
   },
   {
+    "added_at": "2021-03-08T22:39:03Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -13890,6 +14256,7 @@
     "uri": "spotify:track:5seWZTjT0U8a7cy3Y5NJQ9"
   },
   {
+    "added_at": "2021-03-08T21:20:51Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -13970,12 +14337,13 @@
     "href": "https://api.spotify.com/v1/tracks/7GiozRoMk95aFl1WbrDdjX",
     "id": "7GiozRoMk95aFl1WbrDdjX",
     "name": "Nobody",
-    "popularity": 54,
+    "popularity": 55,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7GiozRoMk95aFl1WbrDdjX"
   },
   {
+    "added_at": "2021-02-24T17:03:12Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -14036,12 +14404,13 @@
     "href": "https://api.spotify.com/v1/tracks/3cN5GiIomcMtfCDBj2pyjF",
     "id": "3cN5GiIomcMtfCDBj2pyjF",
     "name": "Fade",
-    "popularity": 20,
+    "popularity": 21,
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:3cN5GiIomcMtfCDBj2pyjF"
   },
   {
+    "added_at": "2021-02-22T19:21:55Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -14128,6 +14497,7 @@
     "uri": "spotify:track:6FALJyZWAbQgOSOyyo84Hs"
   },
   {
+    "added_at": "2021-02-14T21:26:43Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -14194,6 +14564,7 @@
     "uri": "spotify:track:4hgn8VbLCTXFGJnHFIMHas"
   },
   {
+    "added_at": "2021-02-09T21:33:26Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -14260,6 +14631,7 @@
     "uri": "spotify:track:5E5erLM9VXmi2kuW247jTb"
   },
   {
+    "added_at": "2021-01-25T16:45:39Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -14326,6 +14698,7 @@
     "uri": "spotify:track:6WxcciullH40H7bbGbDXlq"
   },
   {
+    "added_at": "2021-01-22T16:33:39Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -14406,12 +14779,13 @@
     "href": "https://api.spotify.com/v1/tracks/7CH8J4ulT49UfZwSDSkSZA",
     "id": "7CH8J4ulT49UfZwSDSkSZA",
     "name": "i miss u (with Au/Ra)",
-    "popularity": 58,
+    "popularity": 57,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7CH8J4ulT49UfZwSDSkSZA"
   },
   {
+    "added_at": "2021-01-13T23:32:40Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -14488,6 +14862,7 @@
     "uri": "spotify:track:4dkRgyXF4JAqAjknCjuRbX"
   },
   {
+    "added_at": "2021-01-09T11:15:39Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -14554,6 +14929,7 @@
     "uri": "spotify:track:59OZiGqFfWmry6o9pTx8i8"
   },
   {
+    "added_at": "2020-12-30T06:35:21Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -14630,6 +15006,7 @@
     "uri": "spotify:track:4G55pTc04WhcDGh7VUCOkT"
   },
   {
+    "added_at": "2020-12-19T02:09:48Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -14736,6 +15113,7 @@
     "uri": "spotify:track:7nLis7fNXkd5hG8WyS2SNZ"
   },
   {
+    "added_at": "2020-12-19T02:08:03Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -14816,12 +15194,13 @@
     "href": "https://api.spotify.com/v1/tracks/05GvwwTLLID738BbKN1ze0",
     "id": "05GvwwTLLID738BbKN1ze0",
     "name": "Because You Move Me",
-    "popularity": 73,
+    "popularity": 72,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:05GvwwTLLID738BbKN1ze0"
   },
   {
+    "added_at": "2020-12-17T08:24:44Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -14888,6 +15267,7 @@
     "uri": "spotify:track:0UyMWzjPTnEaEEIkDtKKBW"
   },
   {
+    "added_at": "2020-12-10T15:41:00Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -14964,6 +15344,7 @@
     "uri": "spotify:track:23OyogmMf2rJ8Edy3pU7rx"
   },
   {
+    "added_at": "2020-12-07T18:01:09Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -15024,12 +15405,13 @@
     "href": "https://api.spotify.com/v1/tracks/7edt9MgE07Bg96ApYPD4Pp",
     "id": "7edt9MgE07Bg96ApYPD4Pp",
     "name": "Focus",
-    "popularity": 32,
+    "popularity": 33,
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:7edt9MgE07Bg96ApYPD4Pp"
   },
   {
+    "added_at": "2020-11-16T21:28:47Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -15106,6 +15488,7 @@
     "uri": "spotify:track:3UZ4nyFf7ouBJzSUbGjN3E"
   },
   {
+    "added_at": "2020-11-16T15:24:13Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -15166,12 +15549,13 @@
     "href": "https://api.spotify.com/v1/tracks/5HRlrrGBMajbttxdTJuIHt",
     "id": "5HRlrrGBMajbttxdTJuIHt",
     "name": "Don't Care Crown",
-    "popularity": 21,
+    "popularity": 19,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5HRlrrGBMajbttxdTJuIHt"
   },
   {
+    "added_at": "2020-11-06T17:20:22Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -15238,6 +15622,7 @@
     "uri": "spotify:track:300yMbSPjCi6fo9EpCVwyC"
   },
   {
+    "added_at": "2020-11-01T07:41:51Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -15298,12 +15683,13 @@
     "href": "https://api.spotify.com/v1/tracks/3V9Ye0o7szPrtMEELrOlfg",
     "id": "3V9Ye0o7szPrtMEELrOlfg",
     "name": "Kiss from God - mint Singles",
-    "popularity": 10,
+    "popularity": 7,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3V9Ye0o7szPrtMEELrOlfg"
   },
   {
+    "added_at": "2020-10-29T02:30:37Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -15390,6 +15776,7 @@
     "uri": "spotify:track:7qRqmkHtKgk9B8FTGp9YjL"
   },
   {
+    "added_at": "2020-10-24T08:17:37Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -15466,6 +15853,7 @@
     "uri": "spotify:track:0BAQjCC9gfqOebxpmonHKz"
   },
   {
+    "added_at": "2020-10-23T01:49:26Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -15542,6 +15930,7 @@
     "uri": "spotify:track:3iMYKoUsn5X0ctIAXvgmSf"
   },
   {
+    "added_at": "2020-09-29T04:01:22Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -15612,12 +16001,13 @@
     "href": "https://api.spotify.com/v1/tracks/2HRHSRoJkiAY6EpU9i2Kkc",
     "id": "2HRHSRoJkiAY6EpU9i2Kkc",
     "name": "September",
-    "popularity": 17,
+    "popularity": 16,
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:2HRHSRoJkiAY6EpU9i2Kkc"
   },
   {
+    "added_at": "2020-09-29T03:20:34Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -15688,12 +16078,13 @@
     "href": "https://api.spotify.com/v1/tracks/7zY0hjzr83qVYSdX4jEbgr",
     "id": "7zY0hjzr83qVYSdX4jEbgr",
     "name": "Hopes Up - BAILE Remix",
-    "popularity": 2,
+    "popularity": 1,
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:7zY0hjzr83qVYSdX4jEbgr"
   },
   {
+    "added_at": "2020-09-28T13:25:46Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -15810,6 +16201,7 @@
     "uri": "spotify:track:0z4gZd4JAgJMIcgL8lNOtZ"
   },
   {
+    "added_at": "2020-08-16T22:50:34Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -15906,6 +16298,7 @@
     "uri": "spotify:track:7qJ3lbBs4CbaoREdhaTRXK"
   },
   {
+    "added_at": "2020-08-16T20:52:56Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -15972,6 +16365,7 @@
     "uri": "spotify:track:5hzYhY7jXXNdflaNlV84OX"
   },
   {
+    "added_at": "2020-08-14T18:40:12Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -16038,6 +16432,7 @@
     "uri": "spotify:track:7MysdJNLp89Xl3zoSd5bC5"
   },
   {
+    "added_at": "2020-08-10T18:21:02Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -16134,6 +16529,7 @@
     "uri": "spotify:track:6oSWam6C5d0HyUS4bVNVqN"
   },
   {
+    "added_at": "2020-08-10T14:33:26Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -16220,6 +16616,7 @@
     "uri": "spotify:track:6PY0rsyuPEGBEwBhccJaLL"
   },
   {
+    "added_at": "2020-08-10T14:27:03Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -16306,6 +16703,7 @@
     "uri": "spotify:track:5h2OpBRVnScvf2hlvPSiQt"
   },
   {
+    "added_at": "2020-08-06T23:24:19Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -16366,12 +16764,13 @@
     "href": "https://api.spotify.com/v1/tracks/4v7kKFlEDmpVToHOICsXaM",
     "id": "4v7kKFlEDmpVToHOICsXaM",
     "name": "Hooked",
-    "popularity": 61,
+    "popularity": 62,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4v7kKFlEDmpVToHOICsXaM"
   },
   {
+    "added_at": "2020-08-05T00:04:09Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -16458,6 +16857,7 @@
     "uri": "spotify:track:7uBaKZZVK0OZ6cqFGpGRXI"
   },
   {
+    "added_at": "2020-07-10T01:10:23Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -16524,6 +16924,7 @@
     "uri": "spotify:track:7a1UiDLvw2yyuRPtANObXb"
   },
   {
+    "added_at": "2020-07-07T17:15:09Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -16610,6 +17011,7 @@
     "uri": "spotify:track:2TXNzTUp1KMUMD7pYMWkCY"
   },
   {
+    "added_at": "2020-07-06T12:21:59Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -16686,6 +17088,7 @@
     "uri": "spotify:track:7mA03cPnG3UkLgf1ed87fI"
   },
   {
+    "added_at": "2020-06-28T13:13:42Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -16762,6 +17165,7 @@
     "uri": "spotify:track:32zzoqnyIg1ugqZ4mLHdAQ"
   },
   {
+    "added_at": "2020-06-23T11:49:10Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -16858,6 +17262,7 @@
     "uri": "spotify:track:7jJZc2pcsibWO04j5zvcEw"
   },
   {
+    "added_at": "2020-05-24T07:13:54Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -16944,6 +17349,7 @@
     "uri": "spotify:track:04k2qZrQ5eu1XlM8XLz23S"
   },
   {
+    "added_at": "2020-04-05T08:01:53Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -17030,6 +17436,7 @@
     "uri": "spotify:track:1qGkpyAYRid7blCDbEpT2w"
   },
   {
+    "added_at": "2020-03-24T20:49:06Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -17096,6 +17503,7 @@
     "uri": "spotify:track:5I8PI4ZIodGuxjt9lDW2kW"
   },
   {
+    "added_at": "2020-03-20T21:22:13Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -17176,12 +17584,13 @@
     "href": "https://api.spotify.com/v1/tracks/40xDsfw19rK9v8pez0LWgv",
     "id": "40xDsfw19rK9v8pez0LWgv",
     "name": "Stay in Love - Arrient Remix",
-    "popularity": 34,
+    "popularity": 33,
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:40xDsfw19rK9v8pez0LWgv"
   },
   {
+    "added_at": "2020-03-03T20:30:36Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -17268,6 +17677,7 @@
     "uri": "spotify:track:1mYY1NmG8U7LthdvVeXIrx"
   },
   {
+    "added_at": "2020-03-03T03:51:14Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -17344,6 +17754,7 @@
     "uri": "spotify:track:19GOaGVsb38yAFtZGdT2J3"
   },
   {
+    "added_at": "2020-03-03T00:57:12Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -17414,12 +17825,13 @@
     "href": "https://api.spotify.com/v1/tracks/6HilF8XGjLdLIZa51AVFux",
     "id": "6HilF8XGjLdLIZa51AVFux",
     "name": "I'm No Magician",
-    "popularity": 6,
+    "popularity": 4,
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:6HilF8XGjLdLIZa51AVFux"
   },
   {
+    "added_at": "2020-02-27T00:39:14Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -17526,6 +17938,7 @@
     "uri": "spotify:track:7c6tga0CoT6IHhHt16EcBd"
   },
   {
+    "added_at": "2020-02-14T00:09:28Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -17602,6 +18015,7 @@
     "uri": "spotify:track:1Axey5hNE9LrzRh6pYiJ1c"
   },
   {
+    "added_at": "2020-02-12T22:53:15Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -17678,6 +18092,7 @@
     "uri": "spotify:track:0MCkGXxEcvsPc7HrncVlsZ"
   },
   {
+    "added_at": "2020-01-23T01:21:59Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -17784,6 +18199,7 @@
     "uri": "spotify:track:6RKFXPdoCBRcLljsxKZUNw"
   },
   {
+    "added_at": "2020-01-23T01:18:55Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -17870,6 +18286,7 @@
     "uri": "spotify:track:1qniqndmNiwkUJpffgE6PA"
   },
   {
+    "added_at": "2020-01-15T02:01:06Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -17956,6 +18373,7 @@
     "uri": "spotify:track:6QcU4iwfLjjsrW7zsqyc1D"
   },
   {
+    "added_at": "2019-12-18T01:41:54Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -18032,6 +18450,7 @@
     "uri": "spotify:track:4qjLvvBh5ZeKEPyShKRf06"
   },
   {
+    "added_at": "2019-12-14T14:39:50Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -18118,6 +18537,7 @@
     "uri": "spotify:track:24gKwE6rqwxIisOCcoueOw"
   },
   {
+    "added_at": "2019-12-13T19:19:53Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -18194,6 +18614,7 @@
     "uri": "spotify:track:35p9K27mJB0n3fmKHFte6O"
   },
   {
+    "added_at": "2019-12-03T18:56:46Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -18270,6 +18691,7 @@
     "uri": "spotify:track:4TANuW9cpKCGqH499rr9re"
   },
   {
+    "added_at": "2019-11-30T20:05:18Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -18336,6 +18758,7 @@
     "uri": "spotify:track:1WO7skj3yz61YIaOEADHeC"
   },
   {
+    "added_at": "2019-11-18T12:36:13Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -18402,6 +18825,7 @@
     "uri": "spotify:track:0bsR8k20ADjBCdOOAntDyi"
   },
   {
+    "added_at": "2019-11-13T14:09:06Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -18468,6 +18892,7 @@
     "uri": "spotify:track:1pEr9wp9zCPOE3pBbmk9qE"
   },
   {
+    "added_at": "2019-11-13T08:19:33Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -18534,6 +18959,7 @@
     "uri": "spotify:track:5cRDn5aGMLvWsldoRmOOz0"
   },
   {
+    "added_at": "2019-10-19T19:58:20Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -18610,6 +19036,7 @@
     "uri": "spotify:track:6gM5j4qoYpwxVtozjwXpOO"
   },
   {
+    "added_at": "2019-10-17T18:25:33Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -18696,6 +19123,7 @@
     "uri": "spotify:track:2zoNNEAyPK2OGDfajardlY"
   },
   {
+    "added_at": "2019-10-14T08:32:59Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -18786,12 +19214,13 @@
     "href": "https://api.spotify.com/v1/tracks/4FXHLmzOMGLy5jFj6ctDsn",
     "id": "4FXHLmzOMGLy5jFj6ctDsn",
     "name": "The Unknown",
-    "popularity": 1,
+    "popularity": 0,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4FXHLmzOMGLy5jFj6ctDsn"
   },
   {
+    "added_at": "2019-08-24T13:02:29Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -18878,6 +19307,7 @@
     "uri": "spotify:track:7qEb82neL4upEhMUrkljpa"
   },
   {
+    "added_at": "2019-08-13T18:33:45Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -18944,6 +19374,7 @@
     "uri": "spotify:track:3RVKHMIsKak6QXsmu6i8ES"
   },
   {
+    "added_at": "2019-08-10T16:44:25Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -19050,6 +19481,7 @@
     "uri": "spotify:track:3GT2CBmJWIEdCpHiB31WYK"
   },
   {
+    "added_at": "2019-08-10T12:27:07Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -19136,6 +19568,7 @@
     "uri": "spotify:track:7FcT9XALvaUrqYm96ubb3b"
   },
   {
+    "added_at": "2019-08-09T11:48:45Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -19202,6 +19635,7 @@
     "uri": "spotify:track:3xY7S39qKvxMx6q87FUxDL"
   },
   {
+    "added_at": "2019-07-22T12:39:01Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -19278,6 +19712,7 @@
     "uri": "spotify:track:1hovkSJMIpP5hfuyb756G4"
   },
   {
+    "added_at": "2019-07-22T11:17:12Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -19344,6 +19779,7 @@
     "uri": "spotify:track:1ty8PZiyvorBlb2ZZHOQSL"
   },
   {
+    "added_at": "2019-07-22T10:31:44Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -19410,6 +19846,7 @@
     "uri": "spotify:track:4F9BSRw59vbBZsVFYnNDyV"
   },
   {
+    "added_at": "2019-07-22T08:53:27Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -19476,6 +19913,7 @@
     "uri": "spotify:track:6SMwahuCNxJaNFWdrC90EE"
   },
   {
+    "added_at": "2019-06-15T10:22:17Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -19562,6 +20000,7 @@
     "uri": "spotify:track:1DFD5Fotzgn6yYXkYsKiGs"
   },
   {
+    "added_at": "2019-06-11T11:08:12Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -19648,6 +20087,7 @@
     "uri": "spotify:track:3MkuFR7t25mu7Iscp6GGiV"
   },
   {
+    "added_at": "2019-06-01T12:25:59Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -19744,6 +20184,7 @@
     "uri": "spotify:track:4gErEUBzsNChBuqk9jgycY"
   },
   {
+    "added_at": "2019-05-22T21:12:25Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -19814,12 +20255,13 @@
     "href": "https://api.spotify.com/v1/tracks/6mQMZtvy4cGi5UVH3LmZte",
     "id": "6mQMZtvy4cGi5UVH3LmZte",
     "name": "Shatter",
-    "popularity": 32,
+    "popularity": 33,
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:6mQMZtvy4cGi5UVH3LmZte"
   },
   {
+    "added_at": "2019-05-10T20:30:09Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -19906,6 +20348,7 @@
     "uri": "spotify:track:3BhiSz6DdKV8O6Iy0rKj6a"
   },
   {
+    "added_at": "2019-04-23T11:55:00Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -19982,6 +20425,7 @@
     "uri": "spotify:track:6UDrfHEnUWI3O03sacM3KO"
   },
   {
+    "added_at": "2019-04-17T03:57:15Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -20072,12 +20516,13 @@
     "href": "https://api.spotify.com/v1/tracks/3gJ0RCbRtSXk96XF6JcN8m",
     "id": "3gJ0RCbRtSXk96XF6JcN8m",
     "name": "The End (Want It All)",
-    "popularity": 11,
+    "popularity": 12,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3gJ0RCbRtSXk96XF6JcN8m"
   },
   {
+    "added_at": "2019-04-10T09:04:24Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -20184,6 +20629,7 @@
     "uri": "spotify:track:7zn3MMeHjee0OZAtsLMDxN"
   },
   {
+    "added_at": "2019-04-04T08:56:21Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -20250,6 +20696,7 @@
     "uri": "spotify:track:6pwDqoYF0I8Hs60wJtVNMF"
   },
   {
+    "added_at": "2019-02-26T09:18:17Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -20346,6 +20793,7 @@
     "uri": "spotify:track:7b4vbqgzMhbFa0wdjfftQJ"
   },
   {
+    "added_at": "2019-02-25T09:28:00Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -20432,6 +20880,7 @@
     "uri": "spotify:track:0Ho8IGKSE5VmwXUMFFTN3k"
   },
   {
+    "added_at": "2019-02-18T12:36:46Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -20518,6 +20967,7 @@
     "uri": "spotify:track:152ZbOlAB6dpE6yzGMBKr6"
   },
   {
+    "added_at": "2019-01-30T21:53:50Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -20604,6 +21054,7 @@
     "uri": "spotify:track:1aoX2MyyPNxKYpQccwAvII"
   },
   {
+    "added_at": "2019-01-30T21:53:11Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -20690,6 +21141,7 @@
     "uri": "spotify:track:6ukLaivOPRHbA0xeOlme8W"
   },
   {
+    "added_at": "2019-01-18T06:18:29Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -20756,6 +21208,7 @@
     "uri": "spotify:track:6fdh7VCT3tTf9sh3D3Qozo"
   },
   {
+    "added_at": "2019-01-17T00:49:55Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -20822,6 +21275,7 @@
     "uri": "spotify:track:6jreFSOTUAViWjKyzOC4Kg"
   },
   {
+    "added_at": "2019-01-10T21:16:31Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -20898,6 +21352,7 @@
     "uri": "spotify:track:65Bynqyt59f3fojjs1Uo41"
   },
   {
+    "added_at": "2018-12-20T22:45:19Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -20974,6 +21429,7 @@
     "uri": "spotify:track:611GqPe9CiIGH4uh18YH0h"
   },
   {
+    "added_at": "2018-12-20T19:12:39Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -21060,6 +21516,7 @@
     "uri": "spotify:track:6lFnM3nU66K0fSpLBEF8yk"
   },
   {
+    "added_at": "2018-12-19T14:46:38Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -21136,6 +21593,7 @@
     "uri": "spotify:track:5wZ9WdJSxCvi8EaDOzzprn"
   },
   {
+    "added_at": "2018-12-10T21:13:31Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -21202,6 +21660,7 @@
     "uri": "spotify:track:2SlaNpOQcuZbwqixWiiOzL"
   },
   {
+    "added_at": "2018-12-04T21:34:59Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -21268,6 +21727,7 @@
     "uri": "spotify:track:6qZuKQYd45g65eeW25avza"
   },
   {
+    "added_at": "2018-11-29T18:12:45Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -21354,6 +21814,7 @@
     "uri": "spotify:track:48o9xqLcWr5sPqNAJF9ft1"
   },
   {
+    "added_at": "2018-11-26T22:42:38Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -21440,6 +21901,7 @@
     "uri": "spotify:track:6MEFEYQEqtWkVQSCXQ7sex"
   },
   {
+    "added_at": "2018-11-13T16:37:05Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -21516,6 +21978,7 @@
     "uri": "spotify:track:31wAXSrJjMrxj8eO3gO2sT"
   },
   {
+    "added_at": "2018-11-12T21:57:11Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -21592,6 +22055,7 @@
     "uri": "spotify:track:0p8rVdAOZmWokRRug1OyKk"
   },
   {
+    "added_at": "2018-11-12T21:21:33Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -21652,12 +22116,13 @@
     "href": "https://api.spotify.com/v1/tracks/6TPIQmUl7e9o9NQni6cvVz",
     "id": "6TPIQmUl7e9o9NQni6cvVz",
     "name": "Fight It",
-    "popularity": 27,
+    "popularity": 30,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6TPIQmUl7e9o9NQni6cvVz"
   },
   {
+    "added_at": "2018-11-07T18:19:34Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -21724,6 +22189,7 @@
     "uri": "spotify:track:13JyykwyYQ3T5QxxL34ukQ"
   },
   {
+    "added_at": "2018-10-12T15:24:53Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -21790,6 +22256,7 @@
     "uri": "spotify:track:2Fcx71e415baVRjRaAKsM6"
   },
   {
+    "added_at": "2018-10-11T21:46:02Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -21856,6 +22323,7 @@
     "uri": "spotify:track:1mrPG8snf4maJMoM4Ec8Ag"
   },
   {
+    "added_at": "2018-10-04T16:57:59Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -21932,6 +22400,7 @@
     "uri": "spotify:track:29vo9RUjxgZWXWGTpD8f4m"
   },
   {
+    "added_at": "2018-09-27T14:47:48Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -22002,12 +22471,13 @@
     "href": "https://api.spotify.com/v1/tracks/5JKU2tXiG3yvJtefNwe7ZQ",
     "id": "5JKU2tXiG3yvJtefNwe7ZQ",
     "name": "Touch",
-    "popularity": 6,
+    "popularity": 4,
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:5JKU2tXiG3yvJtefNwe7ZQ"
   },
   {
+    "added_at": "2018-09-23T07:10:24Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22068,12 +22538,13 @@
     "href": "https://api.spotify.com/v1/tracks/45iMwUi9OBJlEIsTJ4AStR",
     "id": "45iMwUi9OBJlEIsTJ4AStR",
     "name": "Not A Love Song",
-    "popularity": 51,
+    "popularity": 52,
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:45iMwUi9OBJlEIsTJ4AStR"
   },
   {
+    "added_at": "2018-09-23T02:04:52Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22140,6 +22611,7 @@
     "uri": "spotify:track:0BxPg4tI830e0D7BeqTU2e"
   },
   {
+    "added_at": "2018-09-19T23:05:55Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22226,6 +22698,7 @@
     "uri": "spotify:track:4ABdTWafMCXfATpILRuZFW"
   },
   {
+    "added_at": "2018-09-17T17:34:18Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22292,6 +22765,7 @@
     "uri": "spotify:track:3BtA1koBtnClfirgg4BpjI"
   },
   {
+    "added_at": "2018-09-15T21:27:17Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22358,6 +22832,7 @@
     "uri": "spotify:track:05LvE6ySn6hEcHdAJ7N19z"
   },
   {
+    "added_at": "2018-09-13T02:32:15Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22424,6 +22899,7 @@
     "uri": "spotify:track:6jKVU3e0gnQLj3iifJBvVN"
   },
   {
+    "added_at": "2018-08-28T18:30:19Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22490,6 +22966,7 @@
     "uri": "spotify:track:1hI1WeMd3Y8lPjSrtHPvt0"
   },
   {
+    "added_at": "2018-08-28T18:30:07Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22556,6 +23033,7 @@
     "uri": "spotify:track:7i95lmF9ViDZyXaC4UNVkE"
   },
   {
+    "added_at": "2018-08-14T16:09:25Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22632,6 +23110,7 @@
     "uri": "spotify:track:3nKKsoq3GNbHSV6Q9d5g3d"
   },
   {
+    "added_at": "2018-08-10T14:52:47Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22698,6 +23177,7 @@
     "uri": "spotify:track:5EJtRkVgVUfoHL7CuesLKa"
   },
   {
+    "added_at": "2018-07-27T23:56:06Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22784,6 +23264,7 @@
     "uri": "spotify:track:5Ou2zpnsKEZ6k6RliITkIy"
   },
   {
+    "added_at": "2018-07-23T22:11:16Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22880,6 +23361,7 @@
     "uri": "spotify:track:1XJmTduIQ3i3tptQbXZi7b"
   },
   {
+    "added_at": "2018-07-13T18:41:10Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -22946,6 +23428,7 @@
     "uri": "spotify:track:3B6lwaPB9rocO48swMX56B"
   },
   {
+    "added_at": "2018-07-07T01:30:29Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -23012,6 +23495,7 @@
     "uri": "spotify:track:5C0Mo0n7rb5Odo4IMA2tuV"
   },
   {
+    "added_at": "2018-06-27T05:28:04Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -23098,6 +23582,7 @@
     "uri": "spotify:track:4aaIlml3mp3QajuoQqWP3R"
   },
   {
+    "added_at": "2018-06-26T01:45:09Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -23164,6 +23649,7 @@
     "uri": "spotify:track:0sEsDkuoAc7Cx63VRHFSd1"
   },
   {
+    "added_at": "2018-06-08T17:29:18Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -23230,6 +23716,7 @@
     "uri": "spotify:track:5L4VOsq8v9HxxyuSZosBNU"
   },
   {
+    "added_at": "2018-06-04T14:36:34Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -23290,12 +23777,13 @@
     "href": "https://api.spotify.com/v1/tracks/0AVs4KwMZncK8PVJPmff4A",
     "id": "0AVs4KwMZncK8PVJPmff4A",
     "name": "Ready Yet",
-    "popularity": 39,
+    "popularity": 40,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0AVs4KwMZncK8PVJPmff4A"
   },
   {
+    "added_at": "2018-06-01T18:05:32Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -23362,6 +23850,7 @@
     "uri": "spotify:track:7ahUVps1JMpBppl0IO9kBb"
   },
   {
+    "added_at": "2018-05-11T00:49:59Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -23438,6 +23927,7 @@
     "uri": "spotify:track:6DxT6qWd8P7ZOP5p4urTfv"
   },
   {
+    "added_at": "2018-04-28T20:50:43Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -23514,6 +24004,7 @@
     "uri": "spotify:track:7wKzj1b8YKPuZELfVDz708"
   },
   {
+    "added_at": "2018-04-25T23:06:10Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -23590,6 +24081,7 @@
     "uri": "spotify:track:0K1glOFXQzLm3KxjJY5rtK"
   },
   {
+    "added_at": "2018-04-25T04:31:53Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -23656,6 +24148,7 @@
     "uri": "spotify:track:5GfGxUVJHLV9NXNNMGIuCg"
   },
   {
+    "added_at": "2018-04-11T01:26:13Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -23742,6 +24235,7 @@
     "uri": "spotify:track:6mUwMth1MQT8NVSMI7lKjx"
   },
   {
+    "added_at": "2018-03-27T02:36:50Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -23818,6 +24312,7 @@
     "uri": "spotify:track:54o9AE6AljwJcUfIWDeGNu"
   },
   {
+    "added_at": "2018-03-27T01:36:13Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -23888,12 +24383,13 @@
     "href": "https://api.spotify.com/v1/tracks/11pQO7N3ATL0exKrdqHz2y",
     "id": "11pQO7N3ATL0exKrdqHz2y",
     "name": "Tragedy - Lakechild Remix",
-    "popularity": 28,
+    "popularity": 29,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:11pQO7N3ATL0exKrdqHz2y"
   },
   {
+    "added_at": "2018-03-26T02:38:35Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -23974,12 +24470,13 @@
     "href": "https://api.spotify.com/v1/tracks/3YKb4RfxFidWLwfbM9kief",
     "id": "3YKb4RfxFidWLwfbM9kief",
     "name": "Atlantis (Remix) - Demo Taped Remix",
-    "popularity": 27,
+    "popularity": 28,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3YKb4RfxFidWLwfbM9kief"
   },
   {
+    "added_at": "2018-03-13T01:12:36Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -24046,6 +24543,7 @@
     "uri": "spotify:track:0KL9K9gnnbVEdA5t1F6EIs"
   },
   {
+    "added_at": "2018-02-26T23:53:09Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -24122,6 +24620,7 @@
     "uri": "spotify:track:1Vf5YI99OWk2vVUp8ybra0"
   },
   {
+    "added_at": "2018-02-23T00:37:11Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -24208,6 +24707,7 @@
     "uri": "spotify:track:4DWAQLUA3lF3Ozcqni5UY9"
   },
   {
+    "added_at": "2018-02-21T00:14:57Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -24294,6 +24794,7 @@
     "uri": "spotify:track:21RzyxY3EFaxVy6K4RqaU9"
   },
   {
+    "added_at": "2018-02-13T20:45:50Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -24360,6 +24861,7 @@
     "uri": "spotify:track:64TUmDi8kUUCF816GhdRXX"
   },
   {
+    "added_at": "2018-02-05T22:57:07Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -24426,6 +24928,7 @@
     "uri": "spotify:track:38xh0iuhkYiymc1cm3HhD1"
   },
   {
+    "added_at": "2018-02-05T21:54:27Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -24512,6 +25015,7 @@
     "uri": "spotify:track:2mw5S1dAoQQVaPzzw3L4GP"
   },
   {
+    "added_at": "2018-01-31T01:57:26Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -24588,6 +25092,7 @@
     "uri": "spotify:track:0Kz1564ihrYZNsgE76wDI0"
   },
   {
+    "added_at": "2018-01-24T15:31:45Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -24654,6 +25159,7 @@
     "uri": "spotify:track:2DRfWdOZhBi00BcCwv9ljR"
   },
   {
+    "added_at": "2018-01-22T16:36:38Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -24720,6 +25226,7 @@
     "uri": "spotify:track:49mxnbsxWzyrDwDzVIoMdS"
   },
   {
+    "added_at": "2018-01-19T17:15:40Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -24826,6 +25333,7 @@
     "uri": "spotify:track:0as7lPxkBPctZ7uVmchRNM"
   },
   {
+    "added_at": "2018-01-16T02:36:14Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -24912,6 +25420,7 @@
     "uri": "spotify:track:00c9VpjXk7iHdLEEzrAxbr"
   },
   {
+    "added_at": "2018-01-15T23:45:15Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -24988,6 +25497,7 @@
     "uri": "spotify:track:7HNw6ITDQbdHFdm0IC7jMC"
   },
   {
+    "added_at": "2018-01-15T16:30:17Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25064,6 +25574,7 @@
     "uri": "spotify:track:0QXoEwz03trZf9kJ7LZSf7"
   },
   {
+    "added_at": "2018-01-11T16:45:13Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25140,6 +25651,7 @@
     "uri": "spotify:track:4v0134PgBTGsFJiGcV4eJk"
   },
   {
+    "added_at": "2018-01-08T17:19:24Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25226,6 +25738,7 @@
     "uri": "spotify:track:4lEQGE5sVAnx7sbDANs2Fu"
   },
   {
+    "added_at": "2017-12-29T17:15:39Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25292,6 +25805,7 @@
     "uri": "spotify:track:3FClUxQc36bQc6kNlXzadI"
   },
   {
+    "added_at": "2017-12-15T07:26:42Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25368,6 +25882,7 @@
     "uri": "spotify:track:4IZdfTsTlQYvBtSFAcgjVu"
   },
   {
+    "added_at": "2017-12-14T19:23:55Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25454,6 +25969,7 @@
     "uri": "spotify:track:6Xbz8O6M67TMcZIWxGbfjg"
   },
   {
+    "added_at": "2017-12-10T00:01:28Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25520,6 +26036,7 @@
     "uri": "spotify:track:7G6vEhuSJqAht3Q22WUe2u"
   },
   {
+    "added_at": "2017-12-06T17:03:54Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25596,6 +26113,7 @@
     "uri": "spotify:track:5p6eKTYwFYitUS617IMtyd"
   },
   {
+    "added_at": "2017-12-04T17:53:30Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25662,6 +26180,7 @@
     "uri": "spotify:track:4alDuC9zWb3LyxdDEiPMoz"
   },
   {
+    "added_at": "2017-11-23T17:03:23Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25728,6 +26247,7 @@
     "uri": "spotify:track:3R7Y4q7kECcZkT5LCn8QP5"
   },
   {
+    "added_at": "2017-11-21T04:57:56Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25794,6 +26314,7 @@
     "uri": "spotify:track:0RGUIOZtmOXTWOy5EjvQbP"
   },
   {
+    "added_at": "2017-11-07T02:23:33Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25870,6 +26391,7 @@
     "uri": "spotify:track:5LnslfFSyDEkBDIfK2s4m5"
   },
   {
+    "added_at": "2017-10-25T13:56:34Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -25940,12 +26462,13 @@
     "href": "https://api.spotify.com/v1/tracks/7IXjxb3vmqbqZr06kieNUh",
     "id": "7IXjxb3vmqbqZr06kieNUh",
     "name": "Fireburn",
-    "popularity": 32,
+    "popularity": 31,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7IXjxb3vmqbqZr06kieNUh"
   },
   {
+    "added_at": "2017-10-17T16:57:33Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -26026,12 +26549,13 @@
     "href": "https://api.spotify.com/v1/tracks/2XtxcDeJKfsW5J2gSOAVb9",
     "id": "2XtxcDeJKfsW5J2gSOAVb9",
     "name": "Fcukin Beats",
-    "popularity": 3,
+    "popularity": 2,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:2XtxcDeJKfsW5J2gSOAVb9"
   },
   {
+    "added_at": "2017-10-10T00:49:35Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -26092,12 +26616,13 @@
     "href": "https://api.spotify.com/v1/tracks/6NSjdFYF2zxgQ7UvsKoRxy",
     "id": "6NSjdFYF2zxgQ7UvsKoRxy",
     "name": "Jackpot (The Him Remix)",
-    "popularity": 27,
+    "popularity": 28,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6NSjdFYF2zxgQ7UvsKoRxy"
   },
   {
+    "added_at": "2017-10-09T22:47:14Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -26164,6 +26689,7 @@
     "uri": "spotify:track:2iNIdJqx4zvsOA1eY8I4QZ"
   },
   {
+    "added_at": "2017-09-26T18:09:25Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -26250,6 +26776,7 @@
     "uri": "spotify:track:0JshnWfAOhnJiob29TL7XO"
   },
   {
+    "added_at": "2017-09-22T14:32:53Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -26346,6 +26873,7 @@
     "uri": "spotify:track:78gXigr1YRhb24ochT8E7T"
   },
   {
+    "added_at": "2017-09-11T02:22:15Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -26412,6 +26940,7 @@
     "uri": "spotify:track:0rFpcfF0YfvFUYsl99Bw9d"
   },
   {
+    "added_at": "2017-08-17T03:02:24Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -26478,6 +27007,7 @@
     "uri": "spotify:track:7IM73yy9leN8ftZsOVmVTO"
   },
   {
+    "added_at": "2017-08-09T03:11:49Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -26544,6 +27074,7 @@
     "uri": "spotify:track:03Y4XvMs8CcSVM7zQwdECF"
   },
   {
+    "added_at": "2017-08-05T15:55:24Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -26610,6 +27141,7 @@
     "uri": "spotify:track:7fJv128BqCw23AmENDqJuj"
   },
   {
+    "added_at": "2017-08-04T16:30:26Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -26696,6 +27228,7 @@
     "uri": "spotify:track:50Y5DKzkMsTws48NvpuN5s"
   },
   {
+    "added_at": "2017-08-04T15:41:46Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -26782,6 +27315,7 @@
     "uri": "spotify:track:5XVO2yXESFgE9og4IwrILf"
   },
   {
+    "added_at": "2017-07-20T03:11:41Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -26848,6 +27382,7 @@
     "uri": "spotify:track:0AvWCcomxLb6AhiTCBGu4f"
   },
   {
+    "added_at": "2017-06-29T03:01:30Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -26934,6 +27469,7 @@
     "uri": "spotify:track:7Mq3vRtwjRdDTxpQXrS8k6"
   },
   {
+    "added_at": "2017-06-13T21:38:54Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -27010,6 +27546,7 @@
     "uri": "spotify:track:67hG7mINhRMBqIsB1DK27d"
   },
   {
+    "added_at": "2017-06-13T03:03:52Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -27086,6 +27623,7 @@
     "uri": "spotify:track:1lWoanAmIk1PZisbP5LmwT"
   },
   {
+    "added_at": "2017-06-08T23:04:55Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -27152,6 +27690,7 @@
     "uri": "spotify:track:1wjzFQodRWrPcQ0AnYnvQ9"
   },
   {
+    "added_at": "2017-06-01T00:00:04Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -27218,6 +27757,7 @@
     "uri": "spotify:track:7DJ8RxlBQkcCusux1ivXs2"
   },
   {
+    "added_at": "2017-05-31T01:41:21Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -27298,12 +27838,13 @@
     "href": "https://api.spotify.com/v1/tracks/1UFq2OJXahilmefKhSIA8p",
     "id": "1UFq2OJXahilmefKhSIA8p",
     "name": "On My Mind",
-    "popularity": 9,
+    "popularity": 7,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1UFq2OJXahilmefKhSIA8p"
   },
   {
+    "added_at": "2017-05-12T22:29:16Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -27370,6 +27911,7 @@
     "uri": "spotify:track:4CRvXmp3xs3LCjFh7u058r"
   },
   {
+    "added_at": "2017-05-06T00:45:56Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -27440,12 +27982,13 @@
     "href": "https://api.spotify.com/v1/tracks/3A2waEDfZQfl6RNOn8Y1xW",
     "id": "3A2waEDfZQfl6RNOn8Y1xW",
     "name": "Trouble",
-    "popularity": 3,
+    "popularity": 2,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3A2waEDfZQfl6RNOn8Y1xW"
   },
   {
+    "added_at": "2017-05-05T18:43:33Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -27512,6 +28055,7 @@
     "uri": "spotify:track:5dkhm0CxSSmjRbXDCx5o0Q"
   },
   {
+    "added_at": "2017-03-22T16:10:45Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -27598,6 +28142,7 @@
     "uri": "spotify:track:0rjSz9CqxEkS7a13YjfcPO"
   },
   {
+    "added_at": "2017-02-15T23:05:41Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -27678,12 +28223,13 @@
     "href": "https://api.spotify.com/v1/tracks/4jjkX4Cvmj9TKoMVKbDn9F",
     "id": "4jjkX4Cvmj9TKoMVKbDn9F",
     "name": "Deep End",
-    "popularity": 27,
+    "popularity": 28,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4jjkX4Cvmj9TKoMVKbDn9F"
   },
   {
+    "added_at": "2017-02-14T04:47:48Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -27760,6 +28306,7 @@
     "uri": "spotify:track:2prC6PPOZIPBsCD3dQb3lm"
   },
   {
+    "added_at": "2017-02-06T04:50:43Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -27856,6 +28403,7 @@
     "uri": "spotify:track:2PuHj0tUOKud6fVKTZUXRO"
   },
   {
+    "added_at": "2017-01-19T22:21:22Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -27932,6 +28480,7 @@
     "uri": "spotify:track:3F0kp2nBvoc0FlRGiJcoJH"
   },
   {
+    "added_at": "2017-01-11T22:42:15Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -28008,6 +28557,7 @@
     "uri": "spotify:track:2PC9Tl8SWVO2yhDDtJcrAi"
   },
   {
+    "added_at": "2016-12-01T19:22:46Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -28104,6 +28654,7 @@
     "uri": "spotify:track:4HMfSzk0UsiRhulF0eb1M9"
   },
   {
+    "added_at": "2016-11-30T02:25:03Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -28180,6 +28731,7 @@
     "uri": "spotify:track:1rBDaRFt7LMBTNdmnqNSah"
   },
   {
+    "added_at": "2016-11-29T15:51:34Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -28246,6 +28798,7 @@
     "uri": "spotify:track:6giHzoNmL0kwyBZAXGIIc2"
   },
   {
+    "added_at": "2016-11-07T15:56:31Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -28322,6 +28875,7 @@
     "uri": "spotify:track:7lIkM7zthqh3VPwprWEGsm"
   },
   {
+    "added_at": "2016-11-07T04:07:59Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -28398,6 +28952,7 @@
     "uri": "spotify:track:1zAoORAcaFmDUkQOXCowpl"
   },
   {
+    "added_at": "2016-10-31T21:25:15Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -28494,6 +29049,7 @@
     "uri": "spotify:track:2xg8KF2BrxW70v13Twxw6J"
   },
   {
+    "added_at": "2016-10-26T23:40:10Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -28560,6 +29116,7 @@
     "uri": "spotify:track:4jTiyLlOJVJj3mCr7yfPQD"
   },
   {
+    "added_at": "2016-10-19T15:51:34Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -28620,12 +29177,13 @@
     "href": "https://api.spotify.com/v1/tracks/0SuLAslEMFZAXf0SwY7syi",
     "id": "0SuLAslEMFZAXf0SwY7syi",
     "name": "All Time Low",
-    "popularity": 63,
+    "popularity": 64,
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:0SuLAslEMFZAXf0SwY7syi"
   },
   {
+    "added_at": "2016-10-19T14:56:19Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -28692,6 +29250,7 @@
     "uri": "spotify:track:6vJ0Fezf6Etha2C4H21FKO"
   },
   {
+    "added_at": "2016-10-18T16:44:35Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -28758,6 +29317,7 @@
     "uri": "spotify:track:079xATjZNYYUWzDeqYvLeU"
   },
   {
+    "added_at": "2016-10-12T22:25:54Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -28834,6 +29394,7 @@
     "uri": "spotify:track:2HhwGFtgmYMG8MSUIKvnHX"
   },
   {
+    "added_at": "2016-10-10T19:32:42Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -28910,6 +29471,7 @@
     "uri": "spotify:track:2gDn5QtHuUrN4qykGcyEXk"
   },
   {
+    "added_at": "2016-10-04T21:17:52Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -28976,6 +29538,7 @@
     "uri": "spotify:track:5DzJpGkxfPek7D0ON2LDTS"
   },
   {
+    "added_at": "2016-08-02T19:30:58Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -29052,6 +29615,7 @@
     "uri": "spotify:track:6P6YKVO2X5YOMhlyWpUOWu"
   },
   {
+    "added_at": "2016-07-27T15:14:34Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -29118,6 +29682,7 @@
     "uri": "spotify:track:4xtIz9bhPR0QjVufvGVBhL"
   },
   {
+    "added_at": "2016-07-14T16:58:10Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -29194,6 +29759,7 @@
     "uri": "spotify:track:3yIQcwR3yRfYsnXotEJeJ1"
   },
   {
+    "added_at": "2016-07-13T18:03:51Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -29270,6 +29836,7 @@
     "uri": "spotify:track:1M9qtweUVnopx8Dbx8bZVQ"
   },
   {
+    "added_at": "2016-06-26T18:16:37Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -29330,12 +29897,13 @@
     "href": "https://api.spotify.com/v1/tracks/12mGwph2YzDIlChtq3EdXP",
     "id": "12mGwph2YzDIlChtq3EdXP",
     "name": "Alone",
-    "popularity": 20,
+    "popularity": 18,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:12mGwph2YzDIlChtq3EdXP"
   },
   {
+    "added_at": "2016-06-23T17:32:25Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -29412,6 +29980,7 @@
     "uri": "spotify:track:1I4L1exfsYuv3P4ed17pxd"
   },
   {
+    "added_at": "2016-06-23T15:36:52Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -29498,6 +30067,7 @@
     "uri": "spotify:track:36d6jYjM0djQZFXWsAfWpa"
   },
   {
+    "added_at": "2016-05-11T13:43:46Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -29624,6 +30194,7 @@
     "uri": "spotify:track:4iCKHGl4ij4YMwFrUZLGEQ"
   },
   {
+    "added_at": "2016-05-05T21:11:07Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -29710,6 +30281,7 @@
     "uri": "spotify:track:4e7HDxhRYhKM3vZoxJ81V9"
   },
   {
+    "added_at": "2016-05-05T13:03:19Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -29796,6 +30368,7 @@
     "uri": "spotify:track:3YZCgdWOQcsPYLQ1pGxAfd"
   },
   {
+    "added_at": "2016-05-01T06:37:29Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -29872,6 +30445,7 @@
     "uri": "spotify:track:6OKaib6HaebKVCL5VOoIGR"
   },
   {
+    "added_at": "2016-04-26T22:22:39Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -29948,6 +30522,7 @@
     "uri": "spotify:track:217xrcrbBtgJhvlHicxTSH"
   },
   {
+    "added_at": "2016-04-23T16:43:24Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -30014,6 +30589,7 @@
     "uri": "spotify:track:4bD1HpWIZH7Rke6JTiHRzW"
   },
   {
+    "added_at": "2016-04-11T16:17:01Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30090,6 +30666,7 @@
     "uri": "spotify:track:1F4BES9lxRMi81sfeqvKPJ"
   },
   {
+    "added_at": "2016-03-25T18:33:38Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30156,6 +30733,7 @@
     "uri": "spotify:track:6Z9fRBqFuNfqiPDhbEd6O6"
   },
   {
+    "added_at": "2016-03-25T17:41:01Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30232,6 +30810,7 @@
     "uri": "spotify:track:6JtT2BuGOFTE9c6ConVD0x"
   },
   {
+    "added_at": "2016-03-25T12:29:43Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30298,6 +30877,7 @@
     "uri": "spotify:track:3xbjOnhevSQ2104JTrrSfA"
   },
   {
+    "added_at": "2016-03-24T18:11:16Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30394,6 +30974,7 @@
     "uri": "spotify:track:0GcC4Wz93dRVsuiydbDObO"
   },
   {
+    "added_at": "2016-03-24T15:38:33Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30480,6 +31061,7 @@
     "uri": "spotify:track:4PFQ4EQBtJUp2jQjpmYkVA"
   },
   {
+    "added_at": "2016-03-03T19:59:30Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30566,6 +31148,7 @@
     "uri": "spotify:track:1XwZkY5i6ZJ8fGk96jbgwh"
   },
   {
+    "added_at": "2016-02-11T21:15:04Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30652,6 +31235,7 @@
     "uri": "spotify:track:0P6RjFd2HgG2AXJadQuGfE"
   },
   {
+    "added_at": "2016-02-08T17:47:12Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30718,6 +31302,7 @@
     "uri": "spotify:track:7ItN8V4F3Yx01YqjmiMBap"
   },
   {
+    "added_at": "2016-02-01T14:45:35Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30804,6 +31389,7 @@
     "uri": "spotify:track:614TxLN6BP9nN8pFcPdLVE"
   },
   {
+    "added_at": "2016-01-27T19:02:44Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30870,6 +31456,7 @@
     "uri": "spotify:track:6PiJFtfShx4rRq8ebkMKso"
   },
   {
+    "added_at": "2016-01-02T21:13:03Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30936,6 +31523,7 @@
     "uri": "spotify:track:0FgdZknl6J2sbiYOnVg6Y1"
   },
   {
+    "added_at": "2015-12-29T15:51:41Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -30996,12 +31584,13 @@
     "href": "https://api.spotify.com/v1/tracks/4cVzPbPsYsfQD5JLszLoV6",
     "id": "4cVzPbPsYsfQD5JLszLoV6",
     "name": "Move",
-    "popularity": 33,
+    "popularity": 34,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4cVzPbPsYsfQD5JLszLoV6"
   },
   {
+    "added_at": "2015-12-10T20:42:27Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -31068,6 +31657,7 @@
     "uri": "spotify:track:6vDWUBZmCjApEX8Z85hw6Y"
   },
   {
+    "added_at": "2015-11-18T13:37:11Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -31144,6 +31734,7 @@
     "uri": "spotify:track:1aOlKWVzlrgyqhwgq4qk8v"
   },
   {
+    "added_at": "2015-10-26T15:49:13Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -31220,6 +31811,7 @@
     "uri": "spotify:track:7vfWgVGiLgnGbInU5lvSQg"
   },
   {
+    "added_at": "2015-10-08T19:07:50Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -31286,6 +31878,7 @@
     "uri": "spotify:track:2MjWx4z5u5TcASZzVAtkNr"
   },
   {
+    "added_at": "2015-10-02T17:35:08Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -31372,6 +31965,7 @@
     "uri": "spotify:track:1Wcw6FdJVhuAWI39mVAXfS"
   },
   {
+    "added_at": "2015-09-17T19:26:49Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -31438,6 +32032,7 @@
     "uri": "spotify:track:2SokNY5llSldflBBzeDzxv"
   },
   {
+    "added_at": "2015-09-13T03:01:28Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -31504,6 +32099,7 @@
     "uri": "spotify:track:2QTp2o96FG61yVAxZTHqSV"
   },
   {
+    "added_at": "2015-09-03T20:18:27Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -31620,6 +32216,7 @@
     "uri": "spotify:track:66hayvUbTotekKU3H4ta1f"
   },
   {
+    "added_at": "2015-08-09T02:25:39Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -31706,6 +32303,7 @@
     "uri": "spotify:track:22mek4IiqubGD9ctzxc69s"
   },
   {
+    "added_at": "2015-06-30T16:19:11Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -31802,6 +32400,7 @@
     "uri": "spotify:track:3BY2Nq05vhOiYZQD3ixwWD"
   },
   {
+    "added_at": "2015-06-30T13:05:53Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -31868,6 +32467,7 @@
     "uri": "spotify:track:44wQi1AFmPmxldp9w8Kv7v"
   },
   {
+    "added_at": "2015-06-28T13:27:25Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -31938,12 +32538,13 @@
     "href": "https://api.spotify.com/v1/tracks/4jnkpcabTEcQe64tFvR4bP",
     "id": "4jnkpcabTEcQe64tFvR4bP",
     "name": "Unfinished Sympathy (feat. Jasmine Thompson)",
-    "popularity": 33,
+    "popularity": 32,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4jnkpcabTEcQe64tFvR4bP"
   },
   {
+    "added_at": "2015-05-27T17:23:00Z",
     "album": {
       "album_type": "compilation",
       "artists": [
@@ -32020,6 +32621,7 @@
     "uri": "spotify:track:1o3dhAGJYQ4yUI2sCfayn6"
   },
   {
+    "added_at": "2015-05-16T01:32:38Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -32106,6 +32708,7 @@
     "uri": "spotify:track:57kR5SniQIbsbVoIjjOUDa"
   },
   {
+    "added_at": "2015-05-16T01:20:26Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -32176,12 +32779,13 @@
     "href": "https://api.spotify.com/v1/tracks/0nypsuS2jtogLaJDcRQ4Ya",
     "id": "0nypsuS2jtogLaJDcRQ4Ya",
     "name": "Feel the Love (feat. John Newman)",
-    "popularity": 46,
+    "popularity": 47,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0nypsuS2jtogLaJDcRQ4Ya"
   },
   {
+    "added_at": "2015-05-05T12:18:26Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -32258,6 +32862,7 @@
     "uri": "spotify:track:2OXK1ShksXD51tOLsE0E7s"
   },
   {
+    "added_at": "2015-04-05T04:26:27Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -32334,6 +32939,7 @@
     "uri": "spotify:track:6yraFyhgbavO2amB2lhpfi"
   },
   {
+    "added_at": "2015-04-02T14:48:03Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -32420,6 +33026,7 @@
     "uri": "spotify:track:07M4koxBC8P1jHUMIrfMlb"
   },
   {
+    "added_at": "2015-03-30T19:28:33Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -32506,6 +33113,7 @@
     "uri": "spotify:track:3KIYGBcEJbDP9gfUqPK14i"
   },
   {
+    "added_at": "2015-03-12T19:50:11Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -32592,6 +33200,7 @@
     "uri": "spotify:track:6b7O4rpB5LVVFS3cbULsD2"
   },
   {
+    "added_at": "2015-02-26T20:34:10Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -32658,6 +33267,7 @@
     "uri": "spotify:track:4aSFlFgOefeVIKkW2NyMPl"
   },
   {
+    "added_at": "2015-02-25T23:54:09Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -32718,12 +33328,13 @@
     "href": "https://api.spotify.com/v1/tracks/3Af7K6rJ85E9eS0yy8eRNA",
     "id": "3Af7K6rJ85E9eS0yy8eRNA",
     "name": "Koala",
-    "popularity": 44,
+    "popularity": 45,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3Af7K6rJ85E9eS0yy8eRNA"
   },
   {
+    "added_at": "2015-02-25T05:04:16Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -32794,12 +33405,13 @@
     "href": "https://api.spotify.com/v1/tracks/2EByeffYBPi9tatPF7jKRr",
     "id": "2EByeffYBPi9tatPF7jKRr",
     "name": "I Feel It - Original Mix",
-    "popularity": 13,
+    "popularity": 14,
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:2EByeffYBPi9tatPF7jKRr"
   },
   {
+    "added_at": "2015-02-09T15:13:41Z",
     "album": {
       "album_type": "compilation",
       "artists": [
@@ -32876,6 +33488,7 @@
     "uri": "spotify:track:70RjYMSmFY0VpWqBprxDRD"
   },
   {
+    "added_at": "2015-01-15T02:34:18Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -32942,6 +33555,7 @@
     "uri": "spotify:track:4HzI9Nb85FESn9V4cVn6iL"
   },
   {
+    "added_at": "2015-01-12T20:45:15Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -33008,6 +33622,7 @@
     "uri": "spotify:track:3ZMoW9Y3Zr8zJ8wck9TYYz"
   },
   {
+    "added_at": "2015-01-12T18:15:47Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -33094,6 +33709,7 @@
     "uri": "spotify:track:67TUr0SJzEh4DvwihCzyG3"
   },
   {
+    "added_at": "2015-01-10T18:08:28Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -33160,6 +33776,7 @@
     "uri": "spotify:track:19Y4ZNlzPqgmWyF4qK3BSq"
   },
   {
+    "added_at": "2014-12-10T16:40:45Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -33226,6 +33843,7 @@
     "uri": "spotify:track:4pXXmowmkZF3PuEv3sP2Lm"
   },
   {
+    "added_at": "2014-11-30T16:15:16Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -33312,6 +33930,7 @@
     "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
   },
   {
+    "added_at": "2014-11-30T16:15:16Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -33398,6 +34017,7 @@
     "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
   },
   {
+    "added_at": "2014-11-18T22:00:54Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -33474,6 +34094,7 @@
     "uri": "spotify:track:2iS2s9oYpEmUzrAHPmqBHy"
   },
   {
+    "added_at": "2014-11-17T23:51:55Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -33550,6 +34171,7 @@
     "uri": "spotify:track:0DanGj9TtgZIjJnHdTbW9v"
   },
   {
+    "added_at": "2014-11-12T19:48:25Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -33616,6 +34238,7 @@
     "uri": "spotify:track:2W29TNaSCiolWbPfQNgNOW"
   },
   {
+    "added_at": "2014-11-11T18:13:47Z",
     "album": {
       "album_type": "album",
       "artists": [
@@ -33692,6 +34315,7 @@
     "uri": "spotify:track:6XkuklKiHYVTlVvWlTgQYP"
   },
   {
+    "added_at": "2014-11-06T16:35:03Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -33758,6 +34382,7 @@
     "uri": "spotify:track:7nDQMtLxu94xtlTR8bEqjU"
   },
   {
+    "added_at": "2014-10-08T14:16:35Z",
     "album": {
       "album_type": "single",
       "artists": [
@@ -33834,6 +34459,7 @@
     "uri": "spotify:track:6ouTGbETM7ZdID1eMXZJde"
   },
   {
+    "added_at": "2014-10-06T14:04:51Z",
     "album": {
       "album_type": "single",
       "artists": [

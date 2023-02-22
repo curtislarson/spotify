@@ -1,6 +1,8 @@
 import SavedTracks from "../data/saved-tracks.json" assert { type: "json" };
+import { Track } from "./types.ts";
 
 export interface SavedTrack {
+  added_at: string;
   album: Album;
   artists: Artist[];
   duration_ms: number;
@@ -52,20 +54,22 @@ export function getSavedTracks(): Map<string, SavedTrack> {
   return new Map(SavedTracks.map((s) => [s.id, s]));
 }
 
-// const mapped = SavedTracks.map((
-//   { album, artists, duration_ms, explicit, href, id, name, popularity, track_number, type, uri },
-// ) => ({
-//   album: { ...album, available_markets: undefined },
-//   artists,
-//   duration_ms,
-//   explicit,
-//   href,
-//   id,
-//   name,
-//   popularity,
-//   track_number,
-//   type,
-//   uri,
-// }));
-
-// Deno.writeTextFileSync("../data/saved-tracks-mapped.json", JSON.stringify(mapped, null, 2));
+export function normalizeToSavedTrack(
+  { album, artists, duration_ms, explicit, href, id, name, popularity, track_number, type, uri }: Track,
+  added_at: string,
+): SavedTrack {
+  return {
+    added_at,
+    album: { ...album, available_markets: undefined },
+    artists,
+    duration_ms,
+    explicit,
+    href,
+    id,
+    name,
+    popularity,
+    track_number,
+    type,
+    uri,
+  };
+}
