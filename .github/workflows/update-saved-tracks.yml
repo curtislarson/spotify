@@ -35,7 +35,7 @@ jobs:
 
       - name: Update Saved Tracks
         id: update_saved_tracks
-        run: deno task fetch-recent-checkins
+        run: deno task update-saved-tracks
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
