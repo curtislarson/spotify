@@ -1,5 +1,139 @@
 [
   {
+    "added_at": "2023-02-24T00:23:38Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          },
+          "href": "https://api.spotify.com/v1/artists/5EmEZjq8eHEC6qFnT63Lza",
+          "id": "5EmEZjq8eHEC6qFnT63Lza",
+          "name": "Tinlicker",
+          "type": "artist",
+          "uri": "spotify:artist:5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
+      },
+      "href": "https://api.spotify.com/v1/albums/6tQSndkw5ajwFDt0u1Cb1W",
+      "id": "6tQSndkw5ajwFDt0u1Cb1W",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734d03c6a3ebc245da697d0761",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024d03c6a3ebc245da697d0761",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514d03c6a3ebc245da697d0761",
+          "width": 64
+        }
+      ],
+      "name": "Lost Gravity EP",
+      "release_date": "2021-05-14",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:6tQSndkw5ajwFDt0u1Cb1W"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        "href": "https://api.spotify.com/v1/artists/5EmEZjq8eHEC6qFnT63Lza",
+        "id": "5EmEZjq8eHEC6qFnT63Lza",
+        "name": "Tinlicker",
+        "type": "artist",
+        "uri": "spotify:artist:5EmEZjq8eHEC6qFnT63Lza"
+      }
+    ],
+    "duration_ms": 217508,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2kAyenIha3aEM5eAGHYKoo",
+    "id": "2kAyenIha3aEM5eAGHYKoo",
+    "name": "Past Life",
+    "popularity": 25,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2kAyenIha3aEM5eAGHYKoo"
+  },
+  {
+    "added_at": "2023-02-24T00:23:34Z",
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          },
+          "href": "https://api.spotify.com/v1/artists/0GG2cWaonE4JPrjcCCQ1EG",
+          "id": "0GG2cWaonE4JPrjcCCQ1EG",
+          "name": "SG Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
+      },
+      "href": "https://api.spotify.com/v1/albums/5861K3sQgAwu1sswhe5Gw8",
+      "id": "5861K3sQgAwu1sswhe5Gw8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273623b593ab9bf0399a0aea2bd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02623b593ab9bf0399a0aea2bd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851623b593ab9bf0399a0aea2bd",
+          "width": 64
+        }
+      ],
+      "name": "AudioLust & HigherLove",
+      "release_date": "2023-01-27",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:5861K3sQgAwu1sswhe5Gw8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        "href": "https://api.spotify.com/v1/artists/0GG2cWaonE4JPrjcCCQ1EG",
+        "id": "0GG2cWaonE4JPrjcCCQ1EG",
+        "name": "SG Lewis",
+        "type": "artist",
+        "uri": "spotify:artist:0GG2cWaonE4JPrjcCCQ1EG"
+      }
+    ],
+    "duration_ms": 216018,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2Lq7rOLcBBTvBa86k1YTW0",
+    "id": "2Lq7rOLcBBTvBa86k1YTW0",
+    "name": "Oh Laura",
+    "popularity": 58,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:2Lq7rOLcBBTvBa86k1YTW0"
+  },
+  {
     "added_at": "2023-02-22T21:19:54Z",
     "album": {
       "album_type": "single",
@@ -33900,34 +34034,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         },
-        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
-        "id": "5K4W6rqBFWDnAN6FQUkS6x",
-        "name": "Kanye West",
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
         "type": "artist",
-        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
         },
-        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
-        "id": "2GHclqNVjqGuiE5mA7BEoc",
-        "name": "Common",
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
         "type": "artist",
-        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
       }
     ],
-    "duration_ms": 216413,
+    "duration_ms": 295293,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
-    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
-    "name": "Make Her Say",
-    "popularity": 57,
-    "track_number": 12,
+    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
+    "id": "6MtKObWYda2qnNIpJI21uD",
+    "name": "Pursuit Of Happiness (Nightmare)",
+    "popularity": 67,
+    "track_number": 13,
     "type": "track",
-    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
+    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
   },
   {
     "added_at": "2014-11-30T16:15:16Z",
@@ -33987,34 +34121,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
-        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-        "id": "0SwO7SWeDHJijQ3XNS7xEE",
-        "name": "MGMT",
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
         "type": "artist",
-        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
-        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
-        "id": "57dN52uHvrHOxijzpIgu3E",
-        "name": "Ratatat",
+        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id": "2GHclqNVjqGuiE5mA7BEoc",
+        "name": "Common",
         "type": "artist",
-        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
       }
     ],
-    "duration_ms": 295293,
+    "duration_ms": 216413,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
-    "id": "6MtKObWYda2qnNIpJI21uD",
-    "name": "Pursuit Of Happiness (Nightmare)",
-    "popularity": 67,
-    "track_number": 13,
+    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
+    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
+    "name": "Make Her Say",
+    "popularity": 57,
+    "track_number": 12,
     "type": "track",
-    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
+    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
   },
   {
     "added_at": "2014-11-18T22:00:54Z",
