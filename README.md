@@ -36,3 +36,8 @@ Environment variables can either be set directly on your local environment, or v
 | SPOTIFY_CLIENT_ID     | OAuth2 Client ID     |
 | SPOTIFY_CLIENT_SECRET | OAuth2 Client Secret |
 | SPOTIFY_REFRESH_TOKEN | OAuth2 Refresh Token |
+
+## TODO
+
+- [ ] Add some extra logging
+- [ ] Clicking on the svg should redirect you to a react/preact version that is dynamic
