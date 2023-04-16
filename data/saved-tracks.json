@@ -1,5 +1,74 @@
 [
   {
+    "added_at": "2023-04-12T13:47:35Z",
+    "album": {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi"
+          },
+          "href": "https://api.spotify.com/v1/artists/6oGLvkrXYxzfmCdG2Tuadi",
+          "id": "6oGLvkrXYxzfmCdG2Tuadi",
+          "name": "Attic Beats",
+          "type": "artist",
+          "uri": "spotify:artist:6oGLvkrXYxzfmCdG2Tuadi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2eL1jRG7IsXjU6BhuAuRpX"
+      },
+      "href": "https://api.spotify.com/v1/albums/2eL1jRG7IsXjU6BhuAuRpX",
+      "id": "2eL1jRG7IsXjU6BhuAuRpX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dbacbc9eb0e06a4f83ecd6e8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dbacbc9eb0e06a4f83ecd6e8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dbacbc9eb0e06a4f83ecd6e8",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Rewind",
+      "release_date": "2021-03-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2eL1jRG7IsXjU6BhuAuRpX"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi"
+        },
+        "href": "https://api.spotify.com/v1/artists/6oGLvkrXYxzfmCdG2Tuadi",
+        "id": "6oGLvkrXYxzfmCdG2Tuadi",
+        "name": "Attic Beats",
+        "type": "artist",
+        "uri": "spotify:artist:6oGLvkrXYxzfmCdG2Tuadi"
+      }
+    ],
+    "duration_ms": 182069,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2ETAzU6TNObJREpuuAa72p",
+    "id": "2ETAzU6TNObJREpuuAa72p",
+    "name": "Rewind",
+    "popularity": 41,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2ETAzU6TNObJREpuuAa72p"
+  },
+  {
     "added_at": "2023-04-08T07:04:00Z",
     "album": {
       "album_group": "single",
@@ -34442,34 +34511,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
-        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-        "id": "0SwO7SWeDHJijQ3XNS7xEE",
-        "name": "MGMT",
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
         "type": "artist",
-        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
-        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
-        "id": "57dN52uHvrHOxijzpIgu3E",
-        "name": "Ratatat",
+        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id": "2GHclqNVjqGuiE5mA7BEoc",
+        "name": "Common",
         "type": "artist",
-        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
       }
     ],
-    "duration_ms": 295293,
+    "duration_ms": 216413,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
-    "id": "6MtKObWYda2qnNIpJI21uD",
-    "name": "Pursuit Of Happiness (Nightmare)",
-    "popularity": 67,
-    "track_number": 13,
+    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
+    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
+    "name": "Make Her Say",
+    "popularity": 57,
+    "track_number": 12,
     "type": "track",
-    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
+    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
   },
   {
     "added_at": "2014-11-30T16:15:16Z",
@@ -34529,34 +34598,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         },
-        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
-        "id": "5K4W6rqBFWDnAN6FQUkS6x",
-        "name": "Kanye West",
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
         "type": "artist",
-        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
         },
-        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
-        "id": "2GHclqNVjqGuiE5mA7BEoc",
-        "name": "Common",
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
         "type": "artist",
-        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
       }
     ],
-    "duration_ms": 216413,
+    "duration_ms": 295293,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
-    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
-    "name": "Make Her Say",
-    "popularity": 57,
-    "track_number": 12,
+    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
+    "id": "6MtKObWYda2qnNIpJI21uD",
+    "name": "Pursuit Of Happiness (Nightmare)",
+    "popularity": 67,
+    "track_number": 13,
     "type": "track",
-    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
+    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
   },
   {
     "added_at": "2014-11-18T22:00:54Z",
