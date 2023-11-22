@@ -1,5 +1,246 @@
 [
   {
+    "added_at": "2023-11-18T17:02:51Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wg1qvie3KqDNQbAkTdbX0",
+          "id": "7wg1qvie3KqDNQbAkTdbX0",
+          "name": "Louis The Child",
+          "type": "artist",
+          "uri": "spotify:artist:7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6JQL2t9IAlKOShcOf147wn"
+      },
+      "href": "https://api.spotify.com/v1/albums/6JQL2t9IAlKOShcOf147wn",
+      "id": "6JQL2t9IAlKOShcOf147wn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273645d3cbd51894e0d85bd7d6d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02645d3cbd51894e0d85bd7d6d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851645d3cbd51894e0d85bd7d6d",
+          "width": 64
+        }
+      ],
+      "name": "Big Time (X Games Theme)",
+      "release_date": "2019-07-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6JQL2t9IAlKOShcOf147wn"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        "href": "https://api.spotify.com/v1/artists/7wg1qvie3KqDNQbAkTdbX0",
+        "id": "7wg1qvie3KqDNQbAkTdbX0",
+        "name": "Louis The Child",
+        "type": "artist",
+        "uri": "spotify:artist:7wg1qvie3KqDNQbAkTdbX0"
+      }
+    ],
+    "duration_ms": 209887,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4ojhiplIMLGSC5bx0YVavB",
+    "id": "4ojhiplIMLGSC5bx0YVavB",
+    "name": "Big Time - X Games Theme",
+    "popularity": 41,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4ojhiplIMLGSC5bx0YVavB"
+  },
+  {
+    "added_at": "2023-11-18T09:14:22Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+          },
+          "href": "https://api.spotify.com/v1/artists/6LHsnRBUYhFyt01PdKXAF5",
+          "id": "6LHsnRBUYhFyt01PdKXAF5",
+          "name": "Bob Moses",
+          "type": "artist",
+          "uri": "spotify:artist:6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ifxHfYz2pqHku0bwx8H5J",
+          "id": "3ifxHfYz2pqHku0bwx8H5J",
+          "name": "Amtrac",
+          "type": "artist",
+          "uri": "spotify:artist:3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7Eczcaoa9Snixo72qACVB9"
+      },
+      "href": "https://api.spotify.com/v1/albums/7Eczcaoa9Snixo72qACVB9",
+      "id": "7Eczcaoa9Snixo72qACVB9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27327975d37f978e824280f44b4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0227975d37f978e824280f44b4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485127975d37f978e824280f44b4",
+          "width": 64
+        }
+      ],
+      "name": "Back to You (Amtrac Remix)",
+      "release_date": "2023-03-03",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:7Eczcaoa9Snixo72qACVB9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        "href": "https://api.spotify.com/v1/artists/6LHsnRBUYhFyt01PdKXAF5",
+        "id": "6LHsnRBUYhFyt01PdKXAF5",
+        "name": "Bob Moses",
+        "type": "artist",
+        "uri": "spotify:artist:6LHsnRBUYhFyt01PdKXAF5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ifxHfYz2pqHku0bwx8H5J",
+        "id": "3ifxHfYz2pqHku0bwx8H5J",
+        "name": "Amtrac",
+        "type": "artist",
+        "uri": "spotify:artist:3ifxHfYz2pqHku0bwx8H5J"
+      }
+    ],
+    "duration_ms": 277523,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2gzWtnslb715DPDTlJ5NSi",
+    "id": "2gzWtnslb715DPDTlJ5NSi",
+    "name": "Back to You (Amtrac Remix)",
+    "popularity": 54,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2gzWtnslb715DPDTlJ5NSi"
+  },
+  {
+    "added_at": "2023-11-15T08:38:56Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0bxHci3JIhhKA53n8rH3tT",
+          "id": "0bxHci3JIhhKA53n8rH3tT",
+          "name": "High Contrast",
+          "type": "artist",
+          "uri": "spotify:artist:0bxHci3JIhhKA53n8rH3tT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5QLHxIflbfcyiniywmSNiP"
+          },
+          "href": "https://api.spotify.com/v1/artists/5QLHxIflbfcyiniywmSNiP",
+          "id": "5QLHxIflbfcyiniywmSNiP",
+          "name": "Jamie McCool",
+          "type": "artist",
+          "uri": "spotify:artist:5QLHxIflbfcyiniywmSNiP"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/30kl6S0o6gqDebDB7r5hNI"
+      },
+      "href": "https://api.spotify.com/v1/albums/30kl6S0o6gqDebDB7r5hNI",
+      "id": "30kl6S0o6gqDebDB7r5hNI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731f212cf321c7de1d6a761943",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021f212cf321c7de1d6a761943",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511f212cf321c7de1d6a761943",
+          "width": 64
+        }
+      ],
+      "name": "You Don't Understand (feat. Jamie McCool)",
+      "release_date": "2023-06-23",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:30kl6S0o6gqDebDB7r5hNI"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        },
+        "href": "https://api.spotify.com/v1/artists/0bxHci3JIhhKA53n8rH3tT",
+        "id": "0bxHci3JIhhKA53n8rH3tT",
+        "name": "High Contrast",
+        "type": "artist",
+        "uri": "spotify:artist:0bxHci3JIhhKA53n8rH3tT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5QLHxIflbfcyiniywmSNiP"
+        },
+        "href": "https://api.spotify.com/v1/artists/5QLHxIflbfcyiniywmSNiP",
+        "id": "5QLHxIflbfcyiniywmSNiP",
+        "name": "Jamie McCool",
+        "type": "artist",
+        "uri": "spotify:artist:5QLHxIflbfcyiniywmSNiP"
+      }
+    ],
+    "duration_ms": 199779,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6qAHDU8cIqz7XJcQCwNATF",
+    "id": "6qAHDU8cIqz7XJcQCwNATF",
+    "name": "You Don't Understand (feat. Jamie McCool) - Radio Edit",
+    "popularity": 52,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:6qAHDU8cIqz7XJcQCwNATF"
+  },
+  {
     "added_at": "2023-11-14T11:18:17Z",
     "album": {
       "album_type": "single",
@@ -37364,34 +37605,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         },
-        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
-        "id": "5K4W6rqBFWDnAN6FQUkS6x",
-        "name": "Kanye West",
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
         "type": "artist",
-        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
         },
-        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
-        "id": "2GHclqNVjqGuiE5mA7BEoc",
-        "name": "Common",
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
         "type": "artist",
-        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
       }
     ],
-    "duration_ms": 216413,
+    "duration_ms": 295293,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
-    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
-    "name": "Make Her Say",
-    "popularity": 57,
-    "track_number": 12,
+    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
+    "id": "6MtKObWYda2qnNIpJI21uD",
+    "name": "Pursuit Of Happiness (Nightmare)",
+    "popularity": 67,
+    "track_number": 13,
     "type": "track",
-    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
+    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
   },
   {
     "added_at": "2014-11-30T16:15:16Z",
@@ -37451,34 +37692,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
-        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-        "id": "0SwO7SWeDHJijQ3XNS7xEE",
-        "name": "MGMT",
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
         "type": "artist",
-        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
-        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
-        "id": "57dN52uHvrHOxijzpIgu3E",
-        "name": "Ratatat",
+        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id": "2GHclqNVjqGuiE5mA7BEoc",
+        "name": "Common",
         "type": "artist",
-        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
       }
     ],
-    "duration_ms": 295293,
+    "duration_ms": 216413,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
-    "id": "6MtKObWYda2qnNIpJI21uD",
-    "name": "Pursuit Of Happiness (Nightmare)",
-    "popularity": 67,
-    "track_number": 13,
+    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
+    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
+    "name": "Make Her Say",
+    "popularity": 57,
+    "track_number": 12,
     "type": "track",
-    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
+    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
   },
   {
     "added_at": "2014-11-18T22:00:54Z",
