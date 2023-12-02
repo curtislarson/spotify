@@ -2,7 +2,7 @@
 
 import { serve } from "./deps.ts";
 import { SpotifyApp } from "./src/app.ts";
-import "https://deno.land/std@0.172.0/dotenv/load.ts";
+import "https://deno.land/std@0.185.0/dotenv/load.ts";
 
 const { SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN } = Deno.env.toObject();
 
