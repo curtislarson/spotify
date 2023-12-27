@@ -1,5 +1,92 @@
 [
   {
+    "added_at": "2023-12-26T20:11:08Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+          "id": "4oLeXFyACqeem2VImYeBFe",
+          "name": "Fred again..",
+          "type": "artist",
+          "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5SXuuuRpukkTvsLuUknva1",
+          "id": "5SXuuuRpukkTvsLuUknva1",
+          "name": "Baby Keem",
+          "type": "artist",
+          "uri": "spotify:artist:5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Tsut3cVOWP7AKAR4Dtmhb",
+      "id": "3Tsut3cVOWP7AKAR4Dtmhb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c9049966d5a1c1954ae98480",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c9049966d5a1c1954ae98480",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c9049966d5a1c1954ae98480",
+          "width": 64
+        }
+      ],
+      "name": "leavemealone",
+      "release_date": "2023-12-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3Tsut3cVOWP7AKAR4Dtmhb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+        "id": "4oLeXFyACqeem2VImYeBFe",
+        "name": "Fred again..",
+        "type": "artist",
+        "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        "href": "https://api.spotify.com/v1/artists/5SXuuuRpukkTvsLuUknva1",
+        "id": "5SXuuuRpukkTvsLuUknva1",
+        "name": "Baby Keem",
+        "type": "artist",
+        "uri": "spotify:artist:5SXuuuRpukkTvsLuUknva1"
+      }
+    ],
+    "duration_ms": 222784,
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1MVqeIAwhD4T44AKVkIfic",
+    "id": "1MVqeIAwhD4T44AKVkIfic",
+    "name": "leavemealone",
+    "popularity": 80,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1MVqeIAwhD4T44AKVkIfic"
+  },
+  {
     "added_at": "2023-12-08T19:41:08Z",
     "album": {
       "album_type": "single",
@@ -37943,34 +38030,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
-        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-        "id": "0SwO7SWeDHJijQ3XNS7xEE",
-        "name": "MGMT",
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
         "type": "artist",
-        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
-        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
-        "id": "57dN52uHvrHOxijzpIgu3E",
-        "name": "Ratatat",
+        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id": "2GHclqNVjqGuiE5mA7BEoc",
+        "name": "Common",
         "type": "artist",
-        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
       }
     ],
-    "duration_ms": 295293,
+    "duration_ms": 216413,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
-    "id": "6MtKObWYda2qnNIpJI21uD",
-    "name": "Pursuit Of Happiness (Nightmare)",
-    "popularity": 67,
-    "track_number": 13,
+    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
+    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
+    "name": "Make Her Say",
+    "popularity": 57,
+    "track_number": 12,
     "type": "track",
-    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
+    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
   },
   {
     "added_at": "2014-11-30T16:15:16Z",
@@ -38030,34 +38117,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         },
-        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
-        "id": "5K4W6rqBFWDnAN6FQUkS6x",
-        "name": "Kanye West",
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
         "type": "artist",
-        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
         },
-        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
-        "id": "2GHclqNVjqGuiE5mA7BEoc",
-        "name": "Common",
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
         "type": "artist",
-        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
       }
     ],
-    "duration_ms": 216413,
+    "duration_ms": 295293,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
-    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
-    "name": "Make Her Say",
-    "popularity": 57,
-    "track_number": 12,
+    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
+    "id": "6MtKObWYda2qnNIpJI21uD",
+    "name": "Pursuit Of Happiness (Nightmare)",
+    "popularity": 67,
+    "track_number": 13,
     "type": "track",
-    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
+    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
   },
   {
     "added_at": "2014-11-18T22:00:54Z",
