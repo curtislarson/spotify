@@ -1,5 +1,199 @@
 [
   {
+    "added_at": "2024-04-26T14:08:11Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Zz6NBe8UIZjm88TvehFtx",
+          "id": "1Zz6NBe8UIZjm88TvehFtx",
+          "name": "Le Youth",
+          "type": "artist",
+          "uri": "spotify:artist:1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+          },
+          "href": "https://api.spotify.com/v1/artists/3d13oWvwmjcodRr3NzdArc",
+          "id": "3d13oWvwmjcodRr3NzdArc",
+          "name": "Forester",
+          "type": "artist",
+          "uri": "spotify:artist:3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+          },
+          "href": "https://api.spotify.com/v1/artists/5JyKQ4MQ2HkU1n1BYiKMWW",
+          "id": "5JyKQ4MQ2HkU1n1BYiKMWW",
+          "name": "Lyrah",
+          "type": "artist",
+          "uri": "spotify:artist:5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Liw9JDxORvLa5ZQnWJbdX",
+      "id": "1Liw9JDxORvLa5ZQnWJbdX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27379b269441642d98c64f87c1c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0279b269441642d98c64f87c1c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485179b269441642d98c64f87c1c",
+          "width": 64
+        }
+      ],
+      "name": "Stay Still",
+      "release_date": "2024-04-11",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1Liw9JDxORvLa5ZQnWJbdX"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Zz6NBe8UIZjm88TvehFtx",
+        "id": "1Zz6NBe8UIZjm88TvehFtx",
+        "name": "Le Youth",
+        "type": "artist",
+        "uri": "spotify:artist:1Zz6NBe8UIZjm88TvehFtx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        "href": "https://api.spotify.com/v1/artists/3d13oWvwmjcodRr3NzdArc",
+        "id": "3d13oWvwmjcodRr3NzdArc",
+        "name": "Forester",
+        "type": "artist",
+        "uri": "spotify:artist:3d13oWvwmjcodRr3NzdArc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        },
+        "href": "https://api.spotify.com/v1/artists/5JyKQ4MQ2HkU1n1BYiKMWW",
+        "id": "5JyKQ4MQ2HkU1n1BYiKMWW",
+        "name": "Lyrah",
+        "type": "artist",
+        "uri": "spotify:artist:5JyKQ4MQ2HkU1n1BYiKMWW"
+      }
+    ],
+    "duration_ms": 273170,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1tM2jivvLKpF5TNtwKKyEB",
+    "id": "1tM2jivvLKpF5TNtwKKyEB",
+    "name": "Stay Still",
+    "popularity": 55,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1tM2jivvLKpF5TNtwKKyEB"
+  },
+  {
+    "added_at": "2024-04-26T13:54:04Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+          "id": "5ttgIeUVka6FLyi00Uu5h8",
+          "name": "Jauz",
+          "type": "artist",
+          "uri": "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RTklnRcfHgkQJwFpgOq3t",
+          "id": "3RTklnRcfHgkQJwFpgOq3t",
+          "name": "Nevve",
+          "type": "artist",
+          "uri": "spotify:artist:3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2stkLdopWeNgAWr3cBV3Tn"
+      },
+      "href": "https://api.spotify.com/v1/albums/2stkLdopWeNgAWr3cBV3Tn",
+      "id": "2stkLdopWeNgAWr3cBV3Tn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273022dc90f400e807b1da380a2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02022dc90f400e807b1da380a2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851022dc90f400e807b1da380a2",
+          "width": 64
+        }
+      ],
+      "name": "Chains",
+      "release_date": "2024-04-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2stkLdopWeNgAWr3cBV3Tn"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+        "id": "5ttgIeUVka6FLyi00Uu5h8",
+        "name": "Jauz",
+        "type": "artist",
+        "uri": "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        },
+        "href": "https://api.spotify.com/v1/artists/3RTklnRcfHgkQJwFpgOq3t",
+        "id": "3RTklnRcfHgkQJwFpgOq3t",
+        "name": "Nevve",
+        "type": "artist",
+        "uri": "spotify:artist:3RTklnRcfHgkQJwFpgOq3t"
+      }
+    ],
+    "duration_ms": 176000,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3AZyW6Bz7paox5xChTqvHp",
+    "id": "3AZyW6Bz7paox5xChTqvHp",
+    "name": "Chains",
+    "popularity": 40,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3AZyW6Bz7paox5xChTqvHp"
+  },
+  {
     "added_at": "2024-04-21T12:51:44Z",
     "album": {
       "album_type": "single",
@@ -38776,34 +38970,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
-        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-        "id": "0SwO7SWeDHJijQ3XNS7xEE",
-        "name": "MGMT",
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
         "type": "artist",
-        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
-        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
-        "id": "57dN52uHvrHOxijzpIgu3E",
-        "name": "Ratatat",
+        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id": "2GHclqNVjqGuiE5mA7BEoc",
+        "name": "Common",
         "type": "artist",
-        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
       }
     ],
-    "duration_ms": 295293,
+    "duration_ms": 216413,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
-    "id": "6MtKObWYda2qnNIpJI21uD",
-    "name": "Pursuit Of Happiness (Nightmare)",
-    "popularity": 67,
-    "track_number": 13,
+    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
+    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
+    "name": "Make Her Say",
+    "popularity": 57,
+    "track_number": 12,
     "type": "track",
-    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
+    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
   },
   {
     "added_at": "2014-11-30T16:15:16Z",
@@ -38863,34 +39057,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         },
-        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
-        "id": "5K4W6rqBFWDnAN6FQUkS6x",
-        "name": "Kanye West",
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
         "type": "artist",
-        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
         },
-        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
-        "id": "2GHclqNVjqGuiE5mA7BEoc",
-        "name": "Common",
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
         "type": "artist",
-        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
       }
     ],
-    "duration_ms": 216413,
+    "duration_ms": 295293,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
-    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
-    "name": "Make Her Say",
-    "popularity": 57,
-    "track_number": 12,
+    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
+    "id": "6MtKObWYda2qnNIpJI21uD",
+    "name": "Pursuit Of Happiness (Nightmare)",
+    "popularity": 67,
+    "track_number": 13,
     "type": "track",
-    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
+    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
   },
   {
     "added_at": "2014-11-18T22:00:54Z",
