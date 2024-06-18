@@ -1,5 +1,179 @@
 [
   {
+    "added_at": "2024-06-16T08:45:34Z",
+    "album": {
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/72WtCh9Ixy29DiTxlH7Mm4"
+      },
+      "href": "https://api.spotify.com/v1/albums/72WtCh9Ixy29DiTxlH7Mm4",
+      "id": "72WtCh9Ixy29DiTxlH7Mm4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ebaf4c9ced9fe0811e626368",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ebaf4c9ced9fe0811e626368",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ebaf4c9ced9fe0811e626368",
+          "width": 64
+        }
+      ],
+      "name": "Novelty Songs",
+      "release_date": "2020-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 29,
+      "type": "album",
+      "uri": "spotify:album:72WtCh9Ixy29DiTxlH7Mm4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3MOw1ev3YQ8liIGmHT3eH6"
+        },
+        "href": "https://api.spotify.com/v1/artists/3MOw1ev3YQ8liIGmHT3eH6",
+        "id": "3MOw1ev3YQ8liIGmHT3eH6",
+        "name": "The Wurzels",
+        "type": "artist",
+        "uri": "spotify:artist:3MOw1ev3YQ8liIGmHT3eH6"
+      }
+    ],
+    "duration_ms": 183266,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/223z30R4bjsGkFEQcgrVD5",
+    "id": "223z30R4bjsGkFEQcgrVD5",
+    "name": "The Combine Harvester (Brand New Key)",
+    "popularity": 18,
+    "track_number": 22,
+    "type": "track",
+    "uri": "spotify:track:223z30R4bjsGkFEQcgrVD5"
+  },
+  {
+    "added_at": "2024-06-15T16:52:27Z",
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY",
+          "id": "7CajNmpbOovFoOoasH2HaY",
+          "name": "Calvin Harris",
+          "type": "artist",
+          "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+          },
+          "href": "https://api.spotify.com/v1/artists/4A0TivfinfALCAMJqqjZIk",
+          "id": "4A0TivfinfALCAMJqqjZIk",
+          "name": "Funk Wav",
+          "type": "artist",
+          "uri": "spotify:artist:4A0TivfinfALCAMJqqjZIk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
+      },
+      "href": "https://api.spotify.com/v1/albums/2HaqChIDc5go3qxVunBDK0",
+      "id": "2HaqChIDc5go3qxVunBDK0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734d3fa5ce7ba599f4fd7803ef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024d3fa5ce7ba599f4fd7803ef",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514d3fa5ce7ba599f4fd7803ef",
+          "width": 64
+        }
+      ],
+      "name": "Funk Wav Bounces Vol.1",
+      "release_date": "2017-06-30",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:2HaqChIDc5go3qxVunBDK0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        "href": "https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY",
+        "id": "7CajNmpbOovFoOoasH2HaY",
+        "name": "Calvin Harris",
+        "type": "artist",
+        "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "type": "artist",
+        "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+        "id": "3TaUSUXn41GixL7zbvrIDt",
+        "name": "A-Trak",
+        "type": "artist",
+        "uri": "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+        },
+        "href": "https://api.spotify.com/v1/artists/4A0TivfinfALCAMJqqjZIk",
+        "id": "4A0TivfinfALCAMJqqjZIk",
+        "name": "Funk Wav",
+        "type": "artist",
+        "uri": "spotify:artist:4A0TivfinfALCAMJqqjZIk"
+      }
+    ],
+    "duration_ms": 204280,
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4KaIJ1FWXUoAAnOts1YWjD",
+    "id": "4KaIJ1FWXUoAAnOts1YWjD",
+    "name": "Prayers Up (feat. Travis Scott & A-Trak)",
+    "popularity": 46,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:4KaIJ1FWXUoAAnOts1YWjD"
+  },
+  {
     "added_at": "2024-05-22T06:45:50Z",
     "album": {
       "album_type": "album",
@@ -39278,34 +39452,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         },
-        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
-        "id": "5K4W6rqBFWDnAN6FQUkS6x",
-        "name": "Kanye West",
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
         "type": "artist",
-        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
         },
-        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
-        "id": "2GHclqNVjqGuiE5mA7BEoc",
-        "name": "Common",
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
         "type": "artist",
-        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
       }
     ],
-    "duration_ms": 216413,
+    "duration_ms": 295293,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
-    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
-    "name": "Make Her Say",
-    "popularity": 57,
-    "track_number": 12,
+    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
+    "id": "6MtKObWYda2qnNIpJI21uD",
+    "name": "Pursuit Of Happiness (Nightmare)",
+    "popularity": 67,
+    "track_number": 13,
     "type": "track",
-    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
+    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
   },
   {
     "added_at": "2014-11-30T16:15:16Z",
@@ -39365,34 +39539,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
-        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-        "id": "0SwO7SWeDHJijQ3XNS7xEE",
-        "name": "MGMT",
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
         "type": "artist",
-        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
-        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
-        "id": "57dN52uHvrHOxijzpIgu3E",
-        "name": "Ratatat",
+        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id": "2GHclqNVjqGuiE5mA7BEoc",
+        "name": "Common",
         "type": "artist",
-        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
       }
     ],
-    "duration_ms": 295293,
+    "duration_ms": 216413,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
-    "id": "6MtKObWYda2qnNIpJI21uD",
-    "name": "Pursuit Of Happiness (Nightmare)",
-    "popularity": 67,
-    "track_number": 13,
+    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
+    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
+    "name": "Make Her Say",
+    "popularity": 57,
+    "track_number": 12,
     "type": "track",
-    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
+    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
   },
   {
     "added_at": "2014-11-18T22:00:54Z",
