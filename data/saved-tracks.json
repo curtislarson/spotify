@@ -1,5 +1,72 @@
 [
   {
+    "added_at": "2024-08-11T20:24:14Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0wiCfDEHaEcPkKZOi7Nivl",
+          "id": "0wiCfDEHaEcPkKZOi7Nivl",
+          "name": "Yamê",
+          "type": "artist",
+          "uri": "spotify:artist:0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
+      },
+      "href": "https://api.spotify.com/v1/albums/7oBuvko8hsXKXHEUHvDXnB",
+      "id": "7oBuvko8hsXKXHEUHvDXnB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737dfba3f3ae607f250cdd969c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027dfba3f3ae607f250cdd969c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517dfba3f3ae607f250cdd969c",
+          "width": 64
+        }
+      ],
+      "name": "Bécane - A COLORS SHOW",
+      "release_date": "2023-06-01",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7oBuvko8hsXKXHEUHvDXnB"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        "href": "https://api.spotify.com/v1/artists/0wiCfDEHaEcPkKZOi7Nivl",
+        "id": "0wiCfDEHaEcPkKZOi7Nivl",
+        "name": "Yamê",
+        "type": "artist",
+        "uri": "spotify:artist:0wiCfDEHaEcPkKZOi7Nivl"
+      }
+    ],
+    "duration_ms": 182440,
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3oUEzTAoOxqZHN4xiqTGqJ",
+    "id": "3oUEzTAoOxqZHN4xiqTGqJ",
+    "name": "Bécane - A COLORS SHOW",
+    "popularity": 71,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3oUEzTAoOxqZHN4xiqTGqJ"
+  },
+  {
     "added_at": "2024-08-08T10:04:53Z",
     "album": {
       "album_type": "single",
@@ -39787,34 +39854,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
-        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-        "id": "0SwO7SWeDHJijQ3XNS7xEE",
-        "name": "MGMT",
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
         "type": "artist",
-        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
-        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
-        "id": "57dN52uHvrHOxijzpIgu3E",
-        "name": "Ratatat",
+        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id": "2GHclqNVjqGuiE5mA7BEoc",
+        "name": "Common",
         "type": "artist",
-        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
       }
     ],
-    "duration_ms": 295293,
+    "duration_ms": 216413,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
-    "id": "6MtKObWYda2qnNIpJI21uD",
-    "name": "Pursuit Of Happiness (Nightmare)",
-    "popularity": 67,
-    "track_number": 13,
+    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
+    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
+    "name": "Make Her Say",
+    "popularity": 57,
+    "track_number": 12,
     "type": "track",
-    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
+    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
   },
   {
     "added_at": "2014-11-30T16:15:16Z",
@@ -39874,34 +39941,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         },
-        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
-        "id": "5K4W6rqBFWDnAN6FQUkS6x",
-        "name": "Kanye West",
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
         "type": "artist",
-        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
         },
-        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
-        "id": "2GHclqNVjqGuiE5mA7BEoc",
-        "name": "Common",
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
         "type": "artist",
-        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
       }
     ],
-    "duration_ms": 216413,
+    "duration_ms": 295293,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
-    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
-    "name": "Make Her Say",
-    "popularity": 57,
-    "track_number": 12,
+    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
+    "id": "6MtKObWYda2qnNIpJI21uD",
+    "name": "Pursuit Of Happiness (Nightmare)",
+    "popularity": 67,
+    "track_number": 13,
     "type": "track",
-    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
+    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
   },
   {
     "added_at": "2014-11-18T22:00:54Z",
