@@ -1,5 +1,279 @@
 [
   {
+    "added_at": "2025-01-17T08:16:22Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+          },
+          "href": "https://api.spotify.com/v1/artists/1aOt6LvXOV6I8dv1A5Diia",
+          "id": "1aOt6LvXOV6I8dv1A5Diia",
+          "name": "DON BROCO",
+          "type": "artist",
+          "uri": "spotify:artist:1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3V00aSV8gcalGAwjOkauKN"
+      },
+      "href": "https://api.spotify.com/v1/albums/3V00aSV8gcalGAwjOkauKN",
+      "id": "3V00aSV8gcalGAwjOkauKN",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730fdc224e3b42a5d38a8508e9"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020fdc224e3b42a5d38a8508e9"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510fdc224e3b42a5d38a8508e9"
+        }
+      ],
+      "is_playable": true,
+      "name": "Fingernails",
+      "release_date": "2022-04-25",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3V00aSV8gcalGAwjOkauKN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        },
+        "href": "https://api.spotify.com/v1/artists/1aOt6LvXOV6I8dv1A5Diia",
+        "id": "1aOt6LvXOV6I8dv1A5Diia",
+        "name": "DON BROCO",
+        "type": "artist",
+        "uri": "spotify:artist:1aOt6LvXOV6I8dv1A5Diia"
+      }
+    ],
+    "duration_ms": 245243,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5spwALkCxee9CstWeKG7gF",
+    "id": "5spwALkCxee9CstWeKG7gF",
+    "name": "Fingernails",
+    "popularity": 39,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5spwALkCxee9CstWeKG7gF"
+  },
+  {
+    "added_at": "2025-01-17T08:16:15Z",
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7"
+          },
+          "href": "https://api.spotify.com/v1/artists/41iVQ05he8SrfIWbZQ58N7",
+          "id": "41iVQ05he8SrfIWbZQ58N7",
+          "name": "Matrix & Futurebound",
+          "type": "artist",
+          "uri": "spotify:artist:41iVQ05he8SrfIWbZQ58N7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HxzLy3xmo2yu77YUnAXgF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HxzLy3xmo2yu77YUnAXgF",
+          "id": "1HxzLy3xmo2yu77YUnAXgF",
+          "name": "Matrix",
+          "type": "artist",
+          "uri": "spotify:artist:1HxzLy3xmo2yu77YUnAXgF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Vqj1e2oloOKNqAT2gpoa5",
+          "id": "2Vqj1e2oloOKNqAT2gpoa5",
+          "name": "Futurebound",
+          "type": "artist",
+          "uri": "spotify:artist:2Vqj1e2oloOKNqAT2gpoa5"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1VzzMjOfbLYzzHc64RApyd"
+      },
+      "href": "https://api.spotify.com/v1/albums/1VzzMjOfbLYzzHc64RApyd",
+      "id": "1VzzMjOfbLYzzHc64RApyd",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27321d8dc3c6dddcc4d5a48d837"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0221d8dc3c6dddcc4d5a48d837"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485121d8dc3c6dddcc4d5a48d837"
+        }
+      ],
+      "is_playable": true,
+      "name": "Mystery Machine",
+      "release_date": "2019-04-12",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:1VzzMjOfbLYzzHc64RApyd"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7"
+        },
+        "href": "https://api.spotify.com/v1/artists/41iVQ05he8SrfIWbZQ58N7",
+        "id": "41iVQ05he8SrfIWbZQ58N7",
+        "name": "Matrix & Futurebound",
+        "type": "artist",
+        "uri": "spotify:artist:41iVQ05he8SrfIWbZQ58N7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HxzLy3xmo2yu77YUnAXgF"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HxzLy3xmo2yu77YUnAXgF",
+        "id": "1HxzLy3xmo2yu77YUnAXgF",
+        "name": "Matrix",
+        "type": "artist",
+        "uri": "spotify:artist:1HxzLy3xmo2yu77YUnAXgF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5"
+        },
+        "href": "https://api.spotify.com/v1/artists/2Vqj1e2oloOKNqAT2gpoa5",
+        "id": "2Vqj1e2oloOKNqAT2gpoa5",
+        "name": "Futurebound",
+        "type": "artist",
+        "uri": "spotify:artist:2Vqj1e2oloOKNqAT2gpoa5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6"
+        },
+        "href": "https://api.spotify.com/v1/artists/7ppllgzNRgrnOjYbsyDzO6",
+        "id": "7ppllgzNRgrnOjYbsyDzO6",
+        "name": "Max Marshall",
+        "type": "artist",
+        "uri": "spotify:artist:7ppllgzNRgrnOjYbsyDzO6"
+      }
+    ],
+    "duration_ms": 228969,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1ie5zWkotxj3UxH2atGrPE",
+    "id": "1ie5zWkotxj3UxH2atGrPE",
+    "name": "Control",
+    "popularity": 40,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:1ie5zWkotxj3UxH2atGrPE"
+  },
+  {
+    "added_at": "2025-01-17T08:16:10Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0bxHci3JIhhKA53n8rH3tT",
+          "id": "0bxHci3JIhhKA53n8rH3tT",
+          "name": "High Contrast",
+          "type": "artist",
+          "uri": "spotify:artist:0bxHci3JIhhKA53n8rH3tT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AXcevvp1Kd1KEyHiUEsrC",
+          "id": "3AXcevvp1Kd1KEyHiUEsrC",
+          "name": "Unglued",
+          "type": "artist",
+          "uri": "spotify:artist:3AXcevvp1Kd1KEyHiUEsrC"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/13J0NliLgLLxuABqrbDjoK"
+      },
+      "href": "https://api.spotify.com/v1/albums/13J0NliLgLLxuABqrbDjoK",
+      "id": "13J0NliLgLLxuABqrbDjoK",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730242af15ee57c8e5af3b17cf"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020242af15ee57c8e5af3b17cf"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510242af15ee57c8e5af3b17cf"
+        }
+      ],
+      "is_playable": true,
+      "name": "If We Ever (Unglued Remix)",
+      "release_date": "2018-08-24",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:13J0NliLgLLxuABqrbDjoK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        },
+        "href": "https://api.spotify.com/v1/artists/0bxHci3JIhhKA53n8rH3tT",
+        "id": "0bxHci3JIhhKA53n8rH3tT",
+        "name": "High Contrast",
+        "type": "artist",
+        "uri": "spotify:artist:0bxHci3JIhhKA53n8rH3tT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3AXcevvp1Kd1KEyHiUEsrC",
+        "id": "3AXcevvp1Kd1KEyHiUEsrC",
+        "name": "Unglued",
+        "type": "artist",
+        "uri": "spotify:artist:3AXcevvp1Kd1KEyHiUEsrC"
+      }
+    ],
+    "duration_ms": 317974,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2QUVsQu7ESIXqOuLTE4r0A",
+    "id": "2QUVsQu7ESIXqOuLTE4r0A",
+    "name": "If We Ever - Unglued Remix",
+    "popularity": 50,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2QUVsQu7ESIXqOuLTE4r0A"
+  },
+  {
     "added_at": "2025-01-06T07:52:46Z",
     "album": {
       "album_type": "single",
@@ -40319,34 +40593,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         },
-        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
-        "id": "5K4W6rqBFWDnAN6FQUkS6x",
-        "name": "Kanye West",
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
         "type": "artist",
-        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
         },
-        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
-        "id": "2GHclqNVjqGuiE5mA7BEoc",
-        "name": "Common",
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
         "type": "artist",
-        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
       }
     ],
-    "duration_ms": 216413,
+    "duration_ms": 295293,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
-    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
-    "name": "Make Her Say",
-    "popularity": 57,
-    "track_number": 12,
+    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
+    "id": "6MtKObWYda2qnNIpJI21uD",
+    "name": "Pursuit Of Happiness (Nightmare)",
+    "popularity": 67,
+    "track_number": 13,
     "type": "track",
-    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
+    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
   },
   {
     "added_at": "2014-11-30T16:15:16Z",
@@ -40406,34 +40680,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
-        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-        "id": "0SwO7SWeDHJijQ3XNS7xEE",
-        "name": "MGMT",
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
         "type": "artist",
-        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
-        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
-        "id": "57dN52uHvrHOxijzpIgu3E",
-        "name": "Ratatat",
+        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id": "2GHclqNVjqGuiE5mA7BEoc",
+        "name": "Common",
         "type": "artist",
-        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
       }
     ],
-    "duration_ms": 295293,
+    "duration_ms": 216413,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
-    "id": "6MtKObWYda2qnNIpJI21uD",
-    "name": "Pursuit Of Happiness (Nightmare)",
-    "popularity": 67,
-    "track_number": 13,
+    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
+    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
+    "name": "Make Her Say",
+    "popularity": 57,
+    "track_number": 12,
     "type": "track",
-    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
+    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
   },
   {
     "added_at": "2014-11-18T22:00:54Z",
