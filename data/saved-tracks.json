@@ -1,5 +1,93 @@
 [
   {
+    "added_at": "2025-02-28T19:55:02Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+          },
+          "href": "https://api.spotify.com/v1/artists/79PzyYqAyunWsVH4tY4vpr",
+          "id": "79PzyYqAyunWsVH4tY4vpr",
+          "name": "Pola & Bryson",
+          "type": "artist",
+          "uri": "spotify:artist:79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/3kf01riKEcjHq6eiATvWT1",
+          "id": "3kf01riKEcjHq6eiATvWT1",
+          "name": "IYAMAH",
+          "type": "artist",
+          "uri": "spotify:artist:3kf01riKEcjHq6eiATvWT1"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1DnTFNdYDFboAGqs9T9BEs"
+      },
+      "href": "https://api.spotify.com/v1/albums/1DnTFNdYDFboAGqs9T9BEs",
+      "id": "1DnTFNdYDFboAGqs9T9BEs",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273163faf307109fb037b31cbec"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02163faf307109fb037b31cbec"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851163faf307109fb037b31cbec"
+        }
+      ],
+      "is_playable": true,
+      "name": "Too Shy",
+      "release_date": "2023-10-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1DnTFNdYDFboAGqs9T9BEs"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        "href": "https://api.spotify.com/v1/artists/79PzyYqAyunWsVH4tY4vpr",
+        "id": "79PzyYqAyunWsVH4tY4vpr",
+        "name": "Pola & Bryson",
+        "type": "artist",
+        "uri": "spotify:artist:79PzyYqAyunWsVH4tY4vpr"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
+        },
+        "href": "https://api.spotify.com/v1/artists/3kf01riKEcjHq6eiATvWT1",
+        "id": "3kf01riKEcjHq6eiATvWT1",
+        "name": "IYAMAH",
+        "type": "artist",
+        "uri": "spotify:artist:3kf01riKEcjHq6eiATvWT1"
+      }
+    ],
+    "duration_ms": 206896,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0rA0pNjUoFrnVfrRdl6eQN",
+    "id": "0rA0pNjUoFrnVfrRdl6eQN",
+    "name": "Too Shy",
+    "popularity": 46,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0rA0pNjUoFrnVfrRdl6eQN"
+  },
+  {
     "added_at": "2025-02-22T10:20:25Z",
     "album": {
       "album_type": "single",
@@ -40749,34 +40837,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
-        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-        "id": "0SwO7SWeDHJijQ3XNS7xEE",
-        "name": "MGMT",
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
         "type": "artist",
-        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
-        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
-        "id": "57dN52uHvrHOxijzpIgu3E",
-        "name": "Ratatat",
+        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id": "2GHclqNVjqGuiE5mA7BEoc",
+        "name": "Common",
         "type": "artist",
-        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
       }
     ],
-    "duration_ms": 295293,
+    "duration_ms": 216413,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
-    "id": "6MtKObWYda2qnNIpJI21uD",
-    "name": "Pursuit Of Happiness (Nightmare)",
-    "popularity": 67,
-    "track_number": 13,
+    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
+    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
+    "name": "Make Her Say",
+    "popularity": 57,
+    "track_number": 12,
     "type": "track",
-    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
+    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
   },
   {
     "added_at": "2014-11-30T16:15:16Z",
@@ -40836,34 +40924,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         },
-        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
-        "id": "5K4W6rqBFWDnAN6FQUkS6x",
-        "name": "Kanye West",
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
         "type": "artist",
-        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
         },
-        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
-        "id": "2GHclqNVjqGuiE5mA7BEoc",
-        "name": "Common",
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
         "type": "artist",
-        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
       }
     ],
-    "duration_ms": 216413,
+    "duration_ms": 295293,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
-    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
-    "name": "Make Her Say",
-    "popularity": 57,
-    "track_number": 12,
+    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
+    "id": "6MtKObWYda2qnNIpJI21uD",
+    "name": "Pursuit Of Happiness (Nightmare)",
+    "popularity": 67,
+    "track_number": 13,
     "type": "track",
-    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
+    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
   },
   {
     "added_at": "2014-11-18T22:00:54Z",
