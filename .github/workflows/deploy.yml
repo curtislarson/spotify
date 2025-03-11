@@ -14,6 +14,8 @@ jobs:
 
       - name: Install Deno
         uses: denoland/setup-deno@v2.0.2
+        with:
+          deno-version: v2.x
 
       - name: Install deployctl
         run: |
