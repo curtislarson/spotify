@@ -19,7 +19,7 @@ jobs:
 
       - name: Install deployctl
         run: |
-          deno install --global --allow-read --allow-sys --allow-write --allow-env --allow-net --allow-run --no-check -r -f https://deno.land/x/deploy/deployctl.ts
+          deno install -gArf jsr:@deno/deployctl
 
       - name: Deploy
         run: deployctl deploy --prod --project=${{ vars.DENO_DEPLOY_PROJECT }} ./server.ts
