@@ -1,5 +1,93 @@
 [
   {
+    "added_at": "2025-08-19T06:48:02Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt"
+          },
+          "href": "https://api.spotify.com/v1/artists/2J7Bw3q4TQwPwSjNPmASKt",
+          "id": "2J7Bw3q4TQwPwSjNPmASKt",
+          "name": "Fossa Beats",
+          "type": "artist",
+          "uri": "spotify:artist:2J7Bw3q4TQwPwSjNPmASKt"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/39zorK0tt8S6hJEiOM8p5k"
+      },
+      "href": "https://api.spotify.com/v1/albums/39zorK0tt8S6hJEiOM8p5k",
+      "id": "39zorK0tt8S6hJEiOM8p5k",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27364d29120107d03fc98198f57"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0264d29120107d03fc98198f57"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485164d29120107d03fc98198f57"
+        }
+      ],
+      "is_playable": true,
+      "name": "Never Thought Devault Remix",
+      "release_date": "2020-09-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:39zorK0tt8S6hJEiOM8p5k"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt"
+        },
+        "href": "https://api.spotify.com/v1/artists/2J7Bw3q4TQwPwSjNPmASKt",
+        "id": "2J7Bw3q4TQwPwSjNPmASKt",
+        "name": "Fossa Beats",
+        "type": "artist",
+        "uri": "spotify:artist:2J7Bw3q4TQwPwSjNPmASKt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        },
+        "href": "https://api.spotify.com/v1/artists/7uaIm6Pw7xplS8Dy06V6pT",
+        "id": "7uaIm6Pw7xplS8Dy06V6pT",
+        "name": "Trevor Daniel",
+        "type": "artist",
+        "uri": "spotify:artist:7uaIm6Pw7xplS8Dy06V6pT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VBAKMui4zm5MnBWNn3NbL",
+        "id": "1VBAKMui4zm5MnBWNn3NbL",
+        "name": "Devault",
+        "type": "artist",
+        "uri": "spotify:artist:1VBAKMui4zm5MnBWNn3NbL"
+      }
+    ],
+    "duration_ms": 196800,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3cwz94EMEVsco6fLookjCq",
+    "id": "3cwz94EMEVsco6fLookjCq",
+    "name": "Never Thought - Devault Remix",
+    "popularity": 31,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3cwz94EMEVsco6fLookjCq"
+  },
+  {
     "added_at": "2025-08-14T13:04:09Z",
     "album": {
       "album_type": "single",
@@ -41479,34 +41567,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         },
-        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
-        "id": "5K4W6rqBFWDnAN6FQUkS6x",
-        "name": "Kanye West",
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
         "type": "artist",
-        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
         },
-        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
-        "id": "2GHclqNVjqGuiE5mA7BEoc",
-        "name": "Common",
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
         "type": "artist",
-        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
       }
     ],
-    "duration_ms": 216413,
+    "duration_ms": 295293,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
-    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
-    "name": "Make Her Say",
-    "popularity": 57,
-    "track_number": 12,
+    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
+    "id": "6MtKObWYda2qnNIpJI21uD",
+    "name": "Pursuit Of Happiness (Nightmare)",
+    "popularity": 67,
+    "track_number": 13,
     "type": "track",
-    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
+    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
   },
   {
     "added_at": "2014-11-30T16:15:16Z",
@@ -41566,34 +41654,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
-        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-        "id": "0SwO7SWeDHJijQ3XNS7xEE",
-        "name": "MGMT",
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
         "type": "artist",
-        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
-        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
-        "id": "57dN52uHvrHOxijzpIgu3E",
-        "name": "Ratatat",
+        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id": "2GHclqNVjqGuiE5mA7BEoc",
+        "name": "Common",
         "type": "artist",
-        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
       }
     ],
-    "duration_ms": 295293,
+    "duration_ms": 216413,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
-    "id": "6MtKObWYda2qnNIpJI21uD",
-    "name": "Pursuit Of Happiness (Nightmare)",
-    "popularity": 67,
-    "track_number": 13,
+    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
+    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
+    "name": "Make Her Say",
+    "popularity": 57,
+    "track_number": 12,
     "type": "track",
-    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
+    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
   },
   {
     "added_at": "2014-11-18T22:00:54Z",
