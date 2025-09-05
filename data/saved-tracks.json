@@ -1,5 +1,93 @@
 [
   {
+    "added_at": "2025-09-04T11:44:23Z",
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+          },
+          "href": "https://api.spotify.com/v1/artists/2W9msU9MDgJo9BMgBdEqmb",
+          "id": "2W9msU9MDgJo9BMgBdEqmb",
+          "name": "Sofia",
+          "type": "artist",
+          "uri": "spotify:artist:2W9msU9MDgJo9BMgBdEqmb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Gu5Gfw17v1AdykImz5owS"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Gu5Gfw17v1AdykImz5owS",
+          "id": "6Gu5Gfw17v1AdykImz5owS",
+          "name": "Nvrsoft",
+          "type": "artist",
+          "uri": "spotify:artist:6Gu5Gfw17v1AdykImz5owS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3ZDRrb5qrIW60f29OTY06v"
+      },
+      "href": "https://api.spotify.com/v1/albums/3ZDRrb5qrIW60f29OTY06v",
+      "id": "3ZDRrb5qrIW60f29OTY06v",
+      "images": [
+        {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27308221397ec43cd8ca12ef570"
+        },
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0208221397ec43cd8ca12ef570"
+        },
+        {
+          "height": 64,
+          "width": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485108221397ec43cd8ca12ef570"
+        }
+      ],
+      "is_playable": true,
+      "name": "Like It",
+      "release_date": "2023-07-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3ZDRrb5qrIW60f29OTY06v"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+        },
+        "href": "https://api.spotify.com/v1/artists/2W9msU9MDgJo9BMgBdEqmb",
+        "id": "2W9msU9MDgJo9BMgBdEqmb",
+        "name": "Sofia",
+        "type": "artist",
+        "uri": "spotify:artist:2W9msU9MDgJo9BMgBdEqmb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Gu5Gfw17v1AdykImz5owS"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Gu5Gfw17v1AdykImz5owS",
+        "id": "6Gu5Gfw17v1AdykImz5owS",
+        "name": "Nvrsoft",
+        "type": "artist",
+        "uri": "spotify:artist:6Gu5Gfw17v1AdykImz5owS"
+      }
+    ],
+    "duration_ms": 223448,
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2Bdy0gZz7MQRq664Duib0V",
+    "id": "2Bdy0gZz7MQRq664Duib0V",
+    "name": "Like It",
+    "popularity": 63,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2Bdy0gZz7MQRq664Duib0V"
+  },
+  {
     "added_at": "2025-08-19T06:48:02Z",
     "album": {
       "album_type": "single",
@@ -41567,34 +41655,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
-        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-        "id": "0SwO7SWeDHJijQ3XNS7xEE",
-        "name": "MGMT",
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
         "type": "artist",
-        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
-        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
-        "id": "57dN52uHvrHOxijzpIgu3E",
-        "name": "Ratatat",
+        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id": "2GHclqNVjqGuiE5mA7BEoc",
+        "name": "Common",
         "type": "artist",
-        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
       }
     ],
-    "duration_ms": 295293,
+    "duration_ms": 216413,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
-    "id": "6MtKObWYda2qnNIpJI21uD",
-    "name": "Pursuit Of Happiness (Nightmare)",
-    "popularity": 67,
-    "track_number": 13,
+    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
+    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
+    "name": "Make Her Say",
+    "popularity": 57,
+    "track_number": 12,
     "type": "track",
-    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
+    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
   },
   {
     "added_at": "2014-11-30T16:15:16Z",
@@ -41654,34 +41742,34 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         },
-        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
-        "id": "5K4W6rqBFWDnAN6FQUkS6x",
-        "name": "Kanye West",
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
         "type": "artist",
-        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
         },
-        "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
-        "id": "2GHclqNVjqGuiE5mA7BEoc",
-        "name": "Common",
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
         "type": "artist",
-        "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
       }
     ],
-    "duration_ms": 216413,
+    "duration_ms": 295293,
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M",
-    "id": "7dZAPeA3Of5j5Vaef0DQ6M",
-    "name": "Make Her Say",
-    "popularity": 57,
-    "track_number": 12,
+    "href": "https://api.spotify.com/v1/tracks/6MtKObWYda2qnNIpJI21uD",
+    "id": "6MtKObWYda2qnNIpJI21uD",
+    "name": "Pursuit Of Happiness (Nightmare)",
+    "popularity": 67,
+    "track_number": 13,
     "type": "track",
-    "uri": "spotify:track:7dZAPeA3Of5j5Vaef0DQ6M"
+    "uri": "spotify:track:6MtKObWYda2qnNIpJI21uD"
   },
   {
     "added_at": "2014-11-18T22:00:54Z",
